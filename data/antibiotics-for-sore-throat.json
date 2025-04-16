@@ -1,0 +1,3233 @@
+{
+  "metadata": {
+    "review_id": "972299090211411677",
+    "doi": "10.1002/14651858.CD000023.pub4",
+    "group_id": "ARI",
+    "review_no": "A017",
+    "type": "INTERVENTION",
+    "version_no": "22.1",
+    "status": "A",
+    "stage": "R",
+    "revman_version": "5",
+    "revman_sub_version": "5.2.11 ",
+    "description": "I worry there may be an error in the SoF Table (Day 7 soreness)",
+    "modified": "2016-05-03T01:41:27+01:00",
+    "modified_by": "Justin Clark",
+    "title": "Antibiotics for sore throat",
+    "authors": [
+      {
+        "id": "18155",
+        "role": "AUTHOR",
+        "prefix": "Ms",
+        "first_name": "Anneliese",
+        "last_name": "Spinks",
+        "suffix": "BSc (Hon) BA",
+        "position": "Research Fellow",
+        "email": "anneliese.spinks@csiro.au",
+        "affiliation_org": "Griffith University",
+        "affiliation_dept": "School of Medicine",
+        "country": "Australia"
+      },
+      {
+        "id": "4655",
+        "role": "AUTHOR",
+        "prefix": "Prof",
+        "first_name": "Paul",
+        "middle_initials": "P",
+        "last_name": "Glasziou",
+        "position": "Professor",
+        "email": "pglaszio@bond.edu.au",
+        "affiliation_org": "Bond University",
+        "affiliation_dept": "Centre for Research in Evidence-Based Practice (CREBP)",
+        "country": "Australia"
+      },
+      {
+        "id": "12249",
+        "role": "AUTHOR",
+        "prefix": "Prof",
+        "first_name": "Chris",
+        "middle_initials": "B",
+        "last_name": "Del Mar",
+        "suffix": "MA MB BChir MD FRACGP FAFPHM",
+        "position": "Professor",
+        "email": "cdelmar@bond.edu.au",
+        "url": "http://ari.cochrane.org",
+        "affiliation_org": "Bond University",
+        "affiliation_dept": "Centre for Research in Evidence-Based Practice (CREBP)",
+        "country": "Australia"
+      }
+    ],
+    "contact_person": {
+      "id": "18155",
+      "role": "AUTHOR",
+      "prefix": "Ms",
+      "first_name": "Anneliese",
+      "last_name": "Spinks",
+      "suffix": "BSc (Hon) BA",
+      "position": "Research Fellow",
+      "email": "anneliese.spinks@csiro.au",
+      "affiliation_org": "Griffith University",
+      "affiliation_dept": "School of Medicine",
+      "country": "Australia"
+    },
+    "dates": {
+      "up_to_date": "2013-07-11",
+      "last_search": "2013-07-11",
+      "next_stage": "2015-07-11",
+      "protocol_published": {
+        "year": 1997,
+        "issue": 1
+      },
+      "review_published": {
+        "year": 1997,
+        "issue": 2
+      },
+      "last_citation": {
+        "year": 2013,
+        "issue": 11
+      }
+    },
+    "sources_of_support": {
+      "internal": [
+        {
+          "name": "Bond University (2006 update)Australia"
+        },
+        {
+          "name": "University of OxfordUK"
+        },
+        {
+          "name": "Griffith UniversityAustralia"
+        }
+      ],
+      "external": [
+        {
+          "name": "NHS supportUK"
+        }
+      ]
+    }
+  },
+  "abstract": {
+    "background": "Sore throat is a common reason for people to present for medical care. Although it remits spontaneously, primary care doctors commonly prescribe antibiotics for it.",
+    "objectives": "To assess the benefits of antibiotics for sore throat for patients in primary care settings.",
+    "search_strategy": "We searched CENTRAL 2013, Issue 6, MEDLINE (January 1966 to July week 1, 2013) and EMBASE (January 1990 to July 2013).",
+    "selection_criteria": "Randomised controlled trials (RCTs) or quasi-RCTs of antibiotics versus control assessing typical sore throat symptoms or complications.",
+    "data_collection": "Two review authors independently screened studies for inclusion and extracted data. We resolved differences in opinion by discussion. We contacted trial authors from three studies for additional information.",
+    "results": "We included 27 trials with 12,835 cases of sore throat. We did not identify any new trials in this 2013 update.1. SymptomsThroat soreness and fever were reduced by about half by using antibiotics. The greatest difference was seen at day three. The number needed to treat to benefit (NNTB) to prevent one sore throat at day three was less than six; at week one it was 21.2. Non-suppurative complicationsThe trend was antibiotics protecting against acute glomerulonephritis but there were too few cases to be sure. Several studies found antibiotics reduced acute rheumatic fever by more than two-thirds within one month (risk ratio (RR) 0.27; 95% confidence interval (CI) 0.12 to 0.60).3. Suppurative complicationsAntibiotics reduced the incidence of acute otitis media within 14 days (RR 0.30; 95% CI 0.15 to 0.58); acute sinusitis within 14 days (RR 0.48; 95% CI 0.08 to 2.76); and quinsy within two months (RR 0.15; 95% CI 0.05 to 0.47) compared to those taking placebo.4. Subgroup analyses of symptom reductionAntibiotics were more effective against symptoms at day three (RR 0.58; 95% CI 0.48 to 0.71) if throat swabs were positive for Streptococcus, compared to RR 0.78; 95% CI 0.63 to 0.97 if negative. Similarly at week one the RR was 0.29 (95% CI 0.12 to 0.70) for positive and 0.73 (95% CI 0.50 to 1.07) for negative Streptococcusswabs.",
+    "conclusions": "Antibiotics confer relative benefits in the treatment of sore throat. However, the absolute benefits are modest. Protecting sore throat sufferers against suppurative and non-suppurative complications in high-income countries requires treating many with antibiotics for one to benefit. This NNTB may be lower in low-income countries. Antibiotics shorten the duration of symptoms by about 16 hours overall."
+  },
+  "plain_language_summary": {
+    "title": "Antibiotics for people with sore throats",
+    "body_sections": {
+      "Question": "This review sought to determine whether antibiotics are effective for treating the symptoms and reducing the potential complications associated with sore throats.",
+      "Background": "Sore throats are infections caused by bacteria or viruses. People usually recover quickly (usually after three or four days), although some develop complications. A serious but rare complication is rheumatic fever, which affects the heart and joints. Antibiotics reduce bacterial infections but they can cause diarrhea, rash and other adverse effects and communities build resistance to them.",
+      "Study characteristics": "The review is current to July 2013 and included 27 trials with 12,835 cases of sore throat. All of the included studies were randomised, placebo-controlled trials which sought to determine if antibiotics helped reduce symptoms of either sore throat, fever and headache or the occurrence of more serious complications. Studies were conducted among both children and adults.",
+      "Key results": "The review found that antibiotics shorten the duration of pain symptoms by an average of about one day and can reduce the chance of rheumatic fever by more than two-thirds in communities where this complication is common. Other complications associated with sore throat are also reduced through antibiotic use.",
+      "Quality of evidence": "The quality of the included studies was moderate to high. However, there were very few recent trials included in the review (only three since 2000), hence it is unclear if changes in bacterial resistance in the community may have affected the effectiveness of antibiotics."
+    }
+  },
+  "background": {
+    "condition": "Sore throat is a very common reason for people to attend primary care settings (ABS 1985). Moreover, four to six times as many people suffering sore throat do not seek care (Goslings 1963; Horder 1954). Sore throat is a disease that remits spontaneously, that is, 'cure' is not dependent on treatment (Del Mar 1992c). Nonetheless, primary care doctors commonly prescribe antibiotics for sore throat and other upper respiratory tract infections. There are large differences in clinical practice between countries (Froom 1990) and between primary care doctors (Howie 1971).",
+    "intervention": "The administration of antibiotics is likely to shorten the time to the remittance of symptoms and reduce the likelihood of complications in patients whose sore throat has a bacteriological aetiology (van Driel 2013). However, their benefits may be limited in the treatment of sore throat more generally (Reveiz 2013). Traditionally, doctors have attempted to decide whether the cause of the infection is bacterial, especially when caused by the group A beta-haemolytic Streptococcus (GABHS) (which can cause acute rheumatic fever and acute glomerulonephritis). However, deciding the aetiological agent is difficult (Del Mar 1992b).",
+    "theory": "Antibiotics target bacteria which are potentially responsible for sore throat symptoms and possible subsequent suppurative and non-suppurative sequelae. Successful eradication of bacteria may promote faster healing and prevention of secondary complications. However, not all sore throat cases are of bacteriologic origin and bacteria may resist antibiotic treatment which could limit the overall effectiveness of the intervention.",
+    "importance": "Whether or not to prescribe antibiotics for sore throat is controversial. The issue is important because it is a very common disease and differences in prescribing result in large cost differences. Moreover, increased prescribing increases patient attendance rates (Howie 1978; Little 1997). This review is built on an early meta-analysis (Del Mar 1992a) and is an update of previous Cochrane Reviews (Del Mar 1997; Del Mar 2000; Del Mar 2004; Del Mar 2006; Spinks 2009)."
+  },
+  "objectives": "To assess the benefits of antibiotics for sore throat for patients in primary care settings.",
+  "methods": {
+    "selection_criteria": {
+      "study_types": "Randomised controlled trials (RCTs) or quasi-RCTs.",
+      "participants": "Patients presenting to primary care facilities with symptoms of sore throat.",
+      "interventions": "Antibiotics or placebo control.",
+      "outcomes": {}
+    },
+    "search_methods": {
+      "electronic": "For this update we searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2013, Issue 6, part of The Cochrane Library,\nwww.thecochranelibrary.com (accessed 11 July 2013), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (May 2011 to July week 1, 2013) and EMBASE (May 2011 to July 2013). See Appendix 1 for details of previous searches.MEDLINE and CENTRAL were searched using the search strategy shown below. We combined the MEDLINE search string with the Cochrane Highly Sensitive Search Strategy for identifying randomised trials in MEDLINE: sensitivity and precision-maximising version (2008 revision) (Lefebvre 2011). We adapted the search string for EMBASE (Appendix 2). There were no language or publication restrictions.MEDLINE (Ovid)1 exp Pharyngitis/2 pharyngit*.tw.3 exp Nasopharyngitis/4 (nasopharyngit* or rhinopharyngit*).tw.5 exp Tonsillitis/6 tonsillit*.tw.7 (tonsil* adj2 (inflam* or infect*)).tw.8 ((throat* or pharyn*) adj3 (infect* or inflam* or strep*)).tw.9 (sore* adj2 throat*).tw.10 or/1-911 exp Anti-Bacterial Agents/12 antibiot*.tw,nm.13 (azithromycin* or clarithromycin* or erythromycin* or roxithromycin* or macrolide* or cefamandole* or cefoperazone* or cefazolin* or cefonicid* or cefsulodin* or cephacetrile* or cefotaxime* or cephalothin* or cephapirin* or cephalexin* or cephaclor* or cephadroxil* or cephaloglycin* or cephradine* or cephaloridine* or ceftazidime* or cephamycin* or cefmetazole* or cefotetan* or cefoxitin* or cephalosporin* or cefpodoxime* or cefuroxime* or cefixime* or amoxicillin* or amoxycillin* or ampicillin* or sulbactum* or tetracyclin* or clindamycin* or lincomycin* or doxycyclin* or fluoroquinolone* or ciprofloxacin* or fleroxacin* or enoxacin* or norfloxacin* or ofloxacin* or pefloxacin* or moxifloxacin* or esparfloxacin* or clindamicin* or penicillin* or ticarcillin* or beta-lactam* or levofloxacin* or trimethoprim* or co-trimoxazole).tw,nm.14 or/11-1315 10 and 14",
+      "other": "We searched ClinicalTrials.gov and WHO ICTRP (11 July 2013) for completed and ongoing trials. We hand-checked references of selected studies and relevant reviews to find additional studies."
+    },
+    "data_collection": {
+      "study_selection": "Two review authors (AS, CD) independently screened abstracts of potential studies and retrieved full articles for those that were trials. Two review authors (AS, CD)examined the full articles and either selected for inclusion or rejected to the excluded studies list. We resolved differences in opinion by discussion.",
+      "data_extraction": "Two review authors (AS, CDM) independently extracted data from the included studies based on patient-relevant outcomes: namely the complications and symptoms listed above. Data extraction involved reading from tables, graphs and, in some cases, contacting trial authors for raw data (Dagnelie 1996; Little 1997; Zwart 2000; Zwart 2003).",
+      "quality_assessment_approach": "We assessed risk of bias according to the approach indicated in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). We used the following six criteria: adequate sequence generation, allocation concealment, blinding, incomplete outcome data, selective reporting and other bias."
+    }
+  },
+  "results_description": {
+    "study_quality_summary": {
+      "allocation": "In most early studies, participants were randomised to treatment and control groups by methods that could potentially introduce bias (for example, Air Force serial number, drawing a card from a deck, hospital bed number) or not randomised at all. Allocation methods were generally appropriate in the later studies.",
+      "blinding": "Eighteen of the studies were double-blinded and three were single-blinded.",
+      "exclusions": "Outcome data were complete for nearly all studies. For one study it was not clear how many participants maintained pain score diaries and some participants who were initially randomised were excluded due to being GABHS-positive (Petersen 1997).",
+      "other_bias_sources": "The use of antipyretic analgesics was not stated in nine studies, administered routinely in five studies and prohibited in four studies. The prohibition of analgesics might exaggerate any small symptomatic benefit of antibiotics over control if antipyretic analgesics are usually recommended in normal practice."
+    },
+    "intervention_effects_summary": "Primary outcomes1. Symptoms of sore throat on day threeAt day three of the illness, antibiotics reduced symptoms of sore throat (risk ratio (RR) 0.68; 95% confidence interval (CI) 0.59 to 0.79) (Analysis 1.1). Day three was the greatest time of benefit because the symptoms of only half the participants had settled.2. Symptoms of sore throat at one week (days six to eight)At one week (six to eight days) the RR of experiencing sore throat was 0.49 (95% CI 0.32 to 0.76) (Analysis 1.5), although 82% of controls were better by this time.Secondary outcomes1. Symptoms of fever at day threeAt day three of the illness, antibiotics reduced symptoms of fever (RR 0.71; 95% CI 0.45 to 1.10) (Analysis 2.1).2. Symptoms of headache at day threeAt day three of the illness, antibiotics reduced symptoms of headache (RR 0.44; 95% CI 0.27 to 0.71) (Analysis 3.1).3. Incidence of suppurative complicationsAntibiotics reduced the incidence of acute otitis media to about one-third of that in the placebo group (RR 0.30; 95% CI 0.15 to 0.58) (Analysis 4.4) and reduced the incidence of acute sinusitis to about one-half of that in the placebo group (RR 0.48; 95% CI 0.08 to 2.76) (Analysis 4.6). Data indicate that the incidence of quinsy was also reduced in relation to the placebo group (RR 0.15; 95% CI 0.05 to 0.47) (Analysis 4.7).4. Incidence of non-suppurative complicationsCases of acute glomerulonephritis only occurred in the control group which suggests protection by antibiotics. However, there were only two cases and only 10 studies reported on acute glomerulonephritis as an endpoint. Therefore, our estimate of the protection has a very wide 95% CI (RR 0.22; 95% CI 0.02 to 2.08) (Analysis 4.8) which precludes us from definitively claiming that antibiotics protect sore throat sufferers from acute glomerulonephritis.Several studies found benefit from antibiotics for acute rheumatic fever which reduced this complication to about one-quarter of that in the placebo group (RR 0.27; 95% CI 0.12 to 0.60) (Analysis 4.1). Few studies examined antibiotics other than penicillin. Confining the analysis to penicillin alone resulted in no difference in estimated protection (RR 0.27; 95% CI 0.14 to 0.50) (Analysis 4.2).Subgroup analysis of symptom reduction1. Blind versus unblinded studiesThere was no significant difference between blinded and unblinded studies for symptoms of sore throat at day three (RR 0.65; 95% CI 0.54 to 0.78 and RR 0.79; 95% CI 0.60 to 1.05, respectively) (Analysis 1.2) nor at one week (RR 0.62; 95% CI 0.38 to 1.03 and RR 0.30; 95% CI 0.08 to 1.15, respectively) (Analysis 1.6). Contrary to expectation, the trend was for a greater effect of antibiotics for blind studies at day three.2. Antipyretics administered versus not administeredUse of antipyretics led to no significant difference between studies in which antipyretics were offered and those in which they were not (RR 0.52; 95% CI 0.33 to 0.81 and RR 0.62; 95% CI 0.55 to 0.70, respectively) (Analysis 1.3).3. Throat swabs positive for Streptococcus versus negative for Streptococcus versus not tested and/or inseparable combined dataThe probability of still experiencing pain on day three is slightly more than one-half (RR 0.58; 95% CI 0.48 to 0.71) for those participants who had positive throat swabs for GABHS, compared to three-quarters (RR 0.78; 95% CI 0.63 to 0.97) for those with negative swabs (Analysis 1.4). There was a similar effect at one week (RR 0.29; 95% CI 0.12 to 0.70 and RR 0.73; 95% CI 0.50 to 1.07, respectively) (Analysis 1.7). That is, the effectiveness of antibiotics is increased in people with Streptococci growing in the throat.4. Children versus adultsThere were few studies that included children (younger than 13 years of age): only 61 cases in total for when fever was evaluated at day three. There was overlap of the RR 95% CI, so that the trend for children to not experience benefits was not significantly different to adults who did (RR 1.27; 95% CI 0.76 to 2.13 and RR 0.29; 95% CI 0.06 to 1.51, respectively) (Analysis 2.3).Some of these results are summarised in Figure 3.A trial from Thailand was included in the 2003 update (Leelarasamee 2000). It is especially important because it is one of the few trials from a non-Western industrial country. Unfortunately we were unable to enter its data into the meta-analysis because of different ways of collecting the data (in particular no data were collected mid-way through the illness). Nevertheless, the use of antibiotics conferred no benefit (nor harms) on symptoms or complications."
+  },
+  "discussion": {
+    "summary_of_results": "1. SymptomsThroat soreness and fever were reduced by about half when using antibiotics. The greatest difference was seen at day three. The number needed to treat to benefit (NNTB) to prevent one sore throat at day three was less than six; at week one it was 21. Antibiotics were more effective against symptoms at day three and one week if throat swabs were positive for Streptococcus compared to negative throat swabs.2. Non-suppurative complicationsAntibiotics showed a trend for protecting against acute glomerulonephritis but there were too few cases for the results to reach statistical significance. Antibiotics reduced acute rheumatic fever by more than two-thirds.3. Suppurative complicationsAntibiotics significantly reduced the incidence of acute otitis media by two-thirds, acute sinusitis by a half and quinsy by 85% compared to those taking placebo.Authors' conclusionsAntibiotics confer relative benefits in the treatment of sore throat. However, the absolute benefits are modest. Protecting sore throat sufferers against suppurative and non-suppurative complications in high-income countries requires treating many with antibiotics for one to benefit. This NNTB may be lower in low-income countries. Antibiotics shorten the duration of symptoms by about 16 hours overall.",
+    "applicability_of_findings": "The majority of trials included in this review were conducted prior to 1975, with only three trials published since 2000. The main reason for this is that very few antibiotic trials conducted recently include a placebo control arm. It is therefore unknown whether changes in bacterial resistance and population immunity over time may have altered the applicability of results.",
+    "quality_of_evidence": "The quality of the evidence is considered to be moderate to high. The greatest compromise to evidence quality arose from non-clarity in treatment allocation procedures.",
+    "potential_biases": "Non-reporting of anti-pyretic use in a high number of studies may have constituted a source of bias in the results. Publication bias may also be considered a potential threat to the validity of results, particularly for the earlier studies.",
+    "agreement_disagreement": "A recent review analysing the risk-benefit profile of antimicrobial prescribing for children concluded that antibiotics show little benefit in preventing quinsy following sore throat (Keith 2010). A clinical evidence review of antibiotic treatment for streptococcal pharyngitis concluded that among patients with signs and symptoms of positive bacterial infection, a specific diagnosis should be determined by performing either a throat culture or rapid antigen-detection test, especially in children (Wessels 2011). Antibiotic treatment with penicillin or a first-generation cephalosporin is then recommended in the case of positive bacteriologic assessment."
+  },
+  "conclusions": {
+    "implications_for_practice": "Antibiotics have a beneficial effect on both suppurative and symptom reduction.The effect on symptoms is small, so that clinicians must judge with individual cases whether it is clinically justifiable to employ antibiotics to produce this effect. In other words their use should be discretionary rather than either prohibited or mandatory. Since 90% of patients are symptom-free by one week (whether or not treated with antibiotics), the absolute benefit of antibiotics at this time and beyond is vanishingly small.Acute rheumatic fever is common among people living in some parts of the world (Australian Aborigines living in low socio-economic conditions, for example) and antibiotics may be justified to reduce the incidence of this complication in these settings. For other settings where rheumatic fever is rare, there is a balance to be made between modest symptom reduction and the hazards of antimicrobial resistance.",
+    "implications_for_research": "More trials are needed in low-income countries, in socio-economically deprived sections of high-income countries and also in children. In high-income countries, better prognostic studies are called for which can predict which patients may develop suppurative and non-suppurative complications. This will help to further define which patients benefit from antibiotics.Studies which use patient-centred outcome measures compatible with those presented here would be greatly beneficial, in terms of easier comparison and analysis of results and ready inclusion into future updates of this review.Few trials have attempted to measure the severity of symptoms. If antibiotics reduce the severity as well as the duration of symptoms, their benefit will have been underestimated in this meta-analysis."
+  },
+  "studies": {
+    "included": [
+      {
+        "study_id": "STD-Bennike-1951",
+        "name": "Bennike 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "Bennike TBMK, Kjaer E, Skadhauge K, Trolle E"
+          ],
+          "title": "Penicillin therapy in acute tonsillitis, phlegmonous tonsillitis and ulcerative tonsillitis",
+          "source": "Acta Medica Scandinavica",
+          "year": 1951,
+          "volume": "139",
+          "pages": "253-74"
+        },
+        "characteristics": {
+          "methods": "Open study, quasi-randomised",
+          "participants": "669 patients aged from less than 1 year to older than 50 years of age. Research was divided into 3 studies: ordinary tonsillitis, \"phlegmonous\" tonsillitis and \"ulcerative\" tonsillitis. Participants were excluded if they had a complication of tonsillitis on admission or if they had previous antibiotic treatment for the present sore throat",
+          "interventions": "Age-adjusted intramuscular penicillin twice daily for 6 days or no treatment as a control condition",
+          "outcomes": "Incidence of rheumatic fever, otitis media, quinsy, sinusitis and symptoms of sore throat and headache",
+          "notes": "No antipyretics were administered to the control group. The use of antipyretics to participants in the treatment group was unstated"
+        }
+      },
+      {
+        "study_id": "STD-Brink-1951",
+        "name": "Brink 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "Brink WRR, Denny FW, Wannamaker LW"
+          ],
+          "title": "Effect of penicillin and aureomycin on the natural course of streptococcal tonsillitis and pharyngitis",
+          "source": "American Journal of Medicine",
+          "year": 1951,
+          "volume": "10",
+          "pages": "300-8"
+        },
+        "characteristics": {
+          "methods": "Open study",
+          "participants": "395 young adult males recruited into United States Air Force",
+          "interventions": "Intramuscular penicillin over 4 days, chlortetracycline for 3 days or no treatment as control group",
+          "outcomes": "Incidence of rheumatic fever, otitis media and symptoms of sore throat, fever and headache",
+          "notes": "No antipyretics were administered"
+        }
+      },
+      {
+        "study_id": "STD-Brumfitt-1957",
+        "name": "Brumfitt 1957",
+        "year": 1957,
+        "reference": {
+          "authors_list": [
+            "Brumfitt WS, Slater DH"
+          ],
+          "title": "Treatment of acute sore throat with penicillin: a controlled trial among young soldiers",
+          "source": "Lancet",
+          "year": 1957,
+          "volume": "272",
+          "issue": "6958",
+          "pages": "8-11"
+        },
+        "characteristics": {
+          "methods": "Open study",
+          "participants": "121 young adult men, aged 18 to 21 years, recruited into United States Air Force. Participants were excluded from study if their temperature was below 99.3 degrees F, if they had sore throat for more than 72 hours prior to presentation, or if they had some other generalised illness",
+          "interventions": "Intramuscular penicillin twice-daily for 4 days or no treatment as a control condition",
+          "outcomes": "Incidence of rheumatic fever and symptoms of sore throat and fever",
+          "notes": "Aspirin gargles were given 6-hourly. Whether participants were permitted to swallow the aspirin was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Catanzaro-1954",
+        "name": "Catanzaro 1954",
+        "year": 1954,
+        "reference": {
+          "authors_list": [
+            "Catanzaro FJ, Morris AJ, Chamovitz R, Rammelkamp CH, Stolzer B, Perry WD"
+          ],
+          "title": "The role of Streptococcus in the pathogenesis of rheumatic fever",
+          "source": "American Journal of Medicine",
+          "year": 1954,
+          "volume": "17",
+          "issue": "6",
+          "pages": "749-56"
+        },
+        "characteristics": {
+          "methods": "Single-blind, participants were unaware of treatment type, placebo-controlled trial. The outcome of treatment was not determined blind",
+          "participants": "640 young adult males recruited into United States Air Force. Missing data were not explainedData from participants who produced a GABHS-negative throat swab were excluded. Participants were excluded if they presented with a suppurative complication at the time of admission",
+          "interventions": "Intramuscular penicillin administered for 5 days, sulphonamide administered for 5 days or no treatment as a control condition",
+          "outcomes": "Incidence of rheumatic fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Chamovitz-1954",
+        "name": "Chamovitz 1954",
+        "year": 1954,
+        "reference": {
+          "authors_list": [
+            "Chamovitz R, Stetson CA, Rammelkamp CH"
+          ],
+          "title": "Prevention of rheumatic fever by treatment of previous streptococcal infections",
+          "source": "New England Journal of Medicine",
+          "year": 1954,
+          "volume": "251",
+          "issue": "12",
+          "pages": "466-71"
+        },
+        "characteristics": {
+          "methods": "Single-blind placebo study",
+          "participants": "366 young adult males recruited into United States Air Force. Participants were excluded if they had previously developed rheumatic fever, had previous penicillin reaction or if they had a suppurative complication at the time of admission",
+          "interventions": "Intramuscular penicillin",
+          "outcomes": "Incidence of rheumatic fever, otitis media and sinusitis",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Chapple-1956",
+        "name": "Chapple 1956",
+        "year": 1956,
+        "reference": {
+          "authors_list": [
+            "Chapple LM, Paulett JD, Tuckman E, Woodall JT, Tomlinson AJH, McDonald JC"
+          ],
+          "title": "Treatment of acute sore throat in general practice",
+          "source": "British Medical Journal",
+          "year": 1956,
+          "volume": "March",
+          "issue": "4969",
+          "pages": "705-8"
+        },
+        "characteristics": {
+          "methods": "Double-blind, placebo-controlled trial",
+          "participants": "308 participants older than 2 years. Data from 283 participants included in analyses",
+          "interventions": "Age-adjusted oral penicillin, sulphadimidine or barium sulphate (placebo) administered for 5 days",
+          "outcomes": "Incidence of rheumatic fever, otitis media and symptom of sore throat",
+          "notes": "All groups received controlled doses of antipyretics twice daily for 3 daysData from only 200 participants presenting with sore throat on day 1 included in sore throat analysis"
+        }
+      },
+      {
+        "study_id": "STD-Dagnelie-1996",
+        "name": "Dagnelie 1996",
+        "year": 1996,
+        "reference": {
+          "authors_list": [
+            "Dagnelie CF, van-der-Graaf Y, De Melker RA"
+          ],
+          "title": "Do patients with sore throat benefit from penicillin? A randomised double-blind placebo-controlled clinical trial with penicillin V in general practice",
+          "source": "British Journal of General Practice",
+          "year": 1996,
+          "volume": "46",
+          "issue": "411",
+          "pages": "589-93"
+        },
+        "characteristics": {
+          "methods": "Randomised, double-blind, placebo-controlled trial of penicillin V on the course and bacteriological response in patients with sore throat in general practice",
+          "participants": "239 patients aged 4 to 60, presenting with sore throat to 37 General Practices in the Netherlands, who were clinically suspected of GABHS",
+          "interventions": "Treatment with either penicillin V or placebo",
+          "outcomes": "Resolution of sore throat, fever and return to daily activities (assessed by doctor and by diary for 7 days)",
+          "notes": "* Need raw data to make this study comparable to the meta-analysis, however data are available for sore throat on day 3 and quinsy"
+        }
+      },
+      {
+        "study_id": "STD-De-Meyere-1992",
+        "name": "De Meyere 1992",
+        "year": 1992,
+        "reference": {
+          "authors_list": [
+            "De Meyere M, Mervielde Y, Verschraegen G, Bogaert M"
+          ],
+          "title": "Effect of penicillin on the clinical course of streptococcal pharyngitis in general practice",
+          "source": "European Journal of Clinical Pharmacology",
+          "year": 1992,
+          "volume": "43",
+          "issue": "6",
+          "pages": "581-5"
+        },
+        "characteristics": {
+          "methods": "Double-blind, placebo-controlled trial",
+          "participants": "173 participants aged 5 to 50 years, from the Gent region of BelgiumData were obtained from 173 participants on days 1 and 3Data were obtained from 131 participants on days 2, 4, 5, 6 and 7Participants excluded if they: produced a GABHS-negative throat swab, had a sore throat for greater than 5 days, had a previous history of acute rheumatic fever, had an allergy to beta-lactam antibiotics, had received any antibiotics within the past 14 days, were in any high-risk situation as determined by the physician",
+          "interventions": "Oral penicillin or oral placebo 3 times a day",
+          "outcomes": "Symptom of sore throatAll data obtained, except from days 1 and 3, were self reported from a diary",
+          "notes": "Antipyretics were used as required by participants. Use of antipyretics and other symptom-relieving methods was documented in a diary"
+        }
+      },
+      {
+        "study_id": "STD-Denny-1950",
+        "name": "Denny 1950",
+        "year": 1950,
+        "reference": {
+          "authors_list": [
+            "Denny LW, Brink WR, Rammelkamp CH, Custer EA"
+          ],
+          "title": "Prevention of rheumatic fever: treatment of the preceding streptococcal infection",
+          "source": "Journal of the American Medical Association",
+          "year": 1950,
+          "volume": "143",
+          "issue": "2",
+          "pages": "151-3"
+        },
+        "characteristics": {
+          "methods": "Single-blind study. The outcome was determined blind on follow-up by physicians who did not know what treatment type each participant had received",
+          "participants": "1602 young adult males recruited into United States Air Force",
+          "interventions": "Intramuscular penicillin for 4 days or no treatment as a control group",
+          "outcomes": "Incidence of rheumatic fever only",
+          "notes": "Antipyretic use was not stated"
+        }
+      },
+      {
+        "study_id": "STD-Denny-1953",
+        "name": "Denny 1953",
+        "year": 1953,
+        "reference": {
+          "authors_list": [
+            "Denny LW, Hahn EO"
+          ],
+          "title": "Comparative effects of penicillin, aureomycin and terramycin on streptococcal tonsillitis and pharyngitis",
+          "source": "Pediatrics",
+          "year": 1953,
+          "volume": "11",
+          "issue": "1",
+          "pages": "7-14"
+        },
+        "characteristics": {
+          "methods": "Single-blind, randomised, placebo-controlled trial. Outcome determined blind by physicians who did not know treatment type",
+          "participants": "103 young adult males recruited in the United States Air Force. Participants were excluded if they had no exudate on their tonsils or larynx, if they had a leukocyte count of less than 10,000; or if they had experienced symptoms of sore throat for more than 31 hours",
+          "interventions": "Intramuscular penicillin daily for 5 days, oral aureomycin or oral terramycin administered every 6 hours for 3 days or oral lactose placebo for 3 days as a control condition",
+          "outcomes": "Incidence of acute rheumatic fever, otitis media, quinsy, sinusitis and symptoms of sore throat and headache",
+          "notes": "No antipyretics were administered"
+        }
+      },
+      {
+        "study_id": "STD-El_x002d_Daher-1991",
+        "name": "El-Daher 1991",
+        "year": 1991,
+        "reference": {
+          "authors_list": [
+            "El-Daher NT, Hijazi SS, Rawashdeh NM, Al-Khalil IA, Abu-Ektaish FM, Abdel-Latif DI"
+          ],
+          "title": "Immediate vs. delayed treatment of Group A beta-hemolytic streptococcal pharyngitis with penicillin V",
+          "source": "Pediatric Infectious Diseases Journal",
+          "year": 1991,
+          "volume": "10",
+          "issue": "2",
+          "pages": "126-30"
+        },
+        "characteristics": {
+          "methods": "Double-blinded, randomised controlled trial",
+          "participants": "229 children with positive culture for GABHS",
+          "interventions": "Early treatment with oral penicillin for 10 days versus oral placebo for 2 days followed by oral penicillin for 8 days",
+          "outcomes": "Symptoms of sore throat and headache on day 3",
+          "notes": "Examination of participants was done on day 3 before administering penicillin to placebo group"
+        }
+      },
+      {
+        "study_id": "STD-Howe-1997",
+        "name": "Howe 1997",
+        "year": 1997,
+        "reference": {
+          "authors_list": [
+            "Howe RW, Millar MR, Coast J, Whitfield M, Peters TJ, Brookes S"
+          ],
+          "title": "A randomized controlled trial of antibiotics on symptom resolution in patients presenting to their general practitioner with a sore throat",
+          "source": "British Journal of General Practice",
+          "year": 1997,
+          "volume": "47",
+          "issue": "418",
+          "pages": "280-4"
+        },
+        "characteristics": {
+          "methods": "22 GPs in one region of the UK recruited",
+          "participants": "154 patients aged 16 to 60 years presenting to their GP with sore throat and for whom the GP would normally prescribe an antibiotic",
+          "interventions": "Therapy with either penicillin V (250 mg 4 times a day), cefixime (200 mg daily) or placebo",
+          "outcomes": "Resolution of a composite \"symptom score\" with time; eradication of GABHS. A diary was kept of symptom resolution over 7 days",
+          "notes": "*Symptom results were bundled into a composite \"symptom score\". The raw data on sore throat, cough and fever resolution has been requested from the authors"
+        }
+      },
+      {
+        "study_id": "STD-Krober-1985",
+        "name": "Krober 1985",
+        "year": 1985,
+        "reference": {
+          "authors_list": [
+            "Krober JW, Michels GN"
+          ],
+          "title": "Streptococcal pharyngitis: Placebo controlled double blind evaluation of clinical response to penicillin therapy",
+          "source": "JAMA",
+          "year": 1985,
+          "volume": "253",
+          "issue": "9",
+          "pages": "1271-4"
+        },
+        "characteristics": {
+          "methods": "Double-blind placebo trial",
+          "participants": "44 children presenting to a paediatric clinic. 26 of these participants yielded GABHS-positive throat swabsParticipants were excluded if: the duration of symptoms was greater than 72 hours; they had received oral antibiotics within the past 72 hours or intramuscular antibiotics within the past 30 days; they had history of penicillin allergy; they had a rash suggestive of scarlet fever; they had a concurrent infection that required antibiotics other than penicillin; or if they had severe illness requiring immediate penicillin treatmentParticipants who produced GABHS-negative throat swabs were excluded from the study",
+          "interventions": "Oral penicillin or similar looking and tasting oral placebo for the control condition, 3 times a day for 3 days",
+          "outcomes": "Symptom of fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Landsman-1951",
+        "name": "Landsman 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "Landsman JB, Grist NR, Black R, McFarlane D, Blair W"
+          ],
+          "title": "Sore throat in general practice",
+          "source": "British Medical Journal",
+          "year": 1951,
+          "volume": "1",
+          "pages": "326-9"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "95 participants who presented to general practice complaining of sore throat",
+          "interventions": "Oral sulphonamide or similar looking and tasting oral placebo, for the control condition",
+          "outcomes": "Incidence of sinusitis or quinsy or symptoms of sore throat or fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Leelarasamee-2000",
+        "name": "Leelarasamee 2000",
+        "year": 2000,
+        "reference": {
+          "authors_list": [
+            "Leelarasamee A, Leowattana W, Tobunluepop P, Chub-upakarn S, Artavetakan W, Jarupoonphol V, et al"
+          ],
+          "title": "Amoxycillin for fever and sore throat due to non-exudative pharyngotonsillitis: beneficial or harmful?",
+          "source": "International Journal of Infectious Diseases",
+          "year": 2000,
+          "volume": "4",
+          "issue": "2",
+          "pages": "70-4"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "1217 patients aged over 5 years presenting to 4 community-based medical centres with complaints of fever or sore throat of less than 10 days duration",
+          "interventions": "Participants were randomised to receive either amoxycillin or placebo for 7 days",
+          "outcomes": "Duration of sore throat and fever. Incidence of complications and adverse reactions",
+          "notes": "Antipyretics were given if deemed necessary by physicians"
+        }
+      },
+      {
+        "study_id": "STD-Little-1997",
+        "name": "Little 1997",
+        "year": 1997,
+        "reference": {
+          "authors_list": [
+            "Little P, Williamson I, Warner G, Gould C, Gantley M, Kinmonth AL"
+          ],
+          "title": "Open randomised trial of prescribing strategies in managing sore throat",
+          "source": "BMJ",
+          "year": 1997,
+          "volume": "314",
+          "pages": "722-7"
+        },
+        "characteristics": {
+          "methods": "Unblinded randomised trial",
+          "participants": "716 patients aged 4 years and over, presenting to their GP with a sore throat, with an abnormal physical finding localised to the throat (e.g. inflamed tonsils or pharynx, etc.)",
+          "interventions": "Participants were randomised to 3 groups. Participants in the first group were given an antibiotic for 10 days; those in the second group were given no prescription; and in the third group were given an offer of antibiotic prescription if the symptoms were not starting to settle after 3 days",
+          "outcomes": "Main outcomes - duration of symptoms, satisfaction and compliance with and perceived efficacy of antibiotics, time off school or work. Participants given a daily diary in which to record symptoms and temperature. Participants who did not return diaries were followed up over the phone",
+          "notes": "Participants randomised, but neither participants nor doctors blinded to the therapy"
+        }
+      },
+      {
+        "study_id": "STD-MacDonald-1951",
+        "name": "MacDonald 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "MacDonald TC, Watson IH"
+          ],
+          "title": "Sulphonamides and acute tonsillitis: a controlled experiment in a Royal Airforce community",
+          "source": "British Medical Journal",
+          "year": 1951,
+          "volume": "1",
+          "pages": "323-6"
+        },
+        "characteristics": {
+          "methods": "Outcome determined blind",
+          "participants": "82 young adult males recruited into the United States Air Force41 in treatment group; 41 in control group",
+          "interventions": "Oral sulphatriad or identical oral lactose placebo, administered to the control condition, taken every 4 hours",
+          "outcomes": "Symptom of sore throat",
+          "notes": "Antipyretics were administered to 1 participant in the treatment group and 2 participants in the control group"
+        }
+      },
+      {
+        "study_id": "STD-Middleton-1988",
+        "name": "Middleton 1988",
+        "year": 1988,
+        "reference": {
+          "authors_list": [
+            "Middleton DB, D'Amico F, Merenstein JH"
+          ],
+          "title": "Standardized symptomatic treatment versus penicillin as initial therapy for streptococcal pharyngitis",
+          "source": "Journal of Pediatrics",
+          "year": 1988,
+          "volume": "113",
+          "issue": "6",
+          "pages": "1089-94"
+        },
+        "characteristics": {
+          "methods": "Multicentre, double-blind, randomised, placebo-controlled",
+          "participants": "178 participants aged 4 to 29 years with streptococcal pharyngitis. Participants had symptom duration of less than 4 days. Results reported for 57 participants with severe illness only",
+          "interventions": "8 individual doses of penicillin or placebo",
+          "outcomes": "Symptoms of sore throat and fever",
+          "notes": "Phone report after 48 hours used to measure outcome at day 3"
+        }
+      },
+      {
+        "study_id": "STD-Nelson-1984",
+        "name": "Nelson 1984",
+        "year": 1984,
+        "reference": {
+          "authors_list": [
+            "Nelson JD"
+          ],
+          "title": "The effect of penicillin therapy on the symptoms and signs of streptococcal pharyngitis",
+          "source": "Pediatric Infectious Disease",
+          "year": 1984,
+          "volume": "3",
+          "issue": "1",
+          "pages": "10-3"
+        },
+        "characteristics": {
+          "methods": "An oral placebo was used to single-blind participants, however outcome was not determined blind",
+          "participants": "51 children aged 5 to 11 years. Sixteen participants were excluded because they did not produce GABHS-positive throat swabs, leaving 35 participants. Children with history of penicillin hypersensitivity were also excluded",
+          "interventions": "Intramuscular penicillin or oral syrup placebo as a control group",
+          "outcomes": "Symptoms of sore throat and fever",
+          "notes": "No antipyretics were administered"
+        }
+      },
+      {
+        "study_id": "STD-Petersen-1997",
+        "name": "Petersen 1997",
+        "year": 1997,
+        "reference": {
+          "authors_list": [
+            "Peterson K, Phillips RS, Soukup J, Komaroff AL, Aronson M"
+          ],
+          "title": "The effect of erythromycin on resolution of symptoms among adults with pharyngitis not caused by Group A Streptococcus",
+          "source": "Journal of General Internal Medicine",
+          "year": 1997,
+          "volume": "12",
+          "issue": "2",
+          "pages": "95-101"
+        },
+        "characteristics": {
+          "methods": "Randomised placebo-controlled trial of participants' culture-negative for GABHS",
+          "participants": "186 adults (aged 18 to 50) presenting to an ambulatory setting, whose chief complaint was sore throat and whose GABHS culture was subsequently found to be negative",
+          "interventions": "Treatment with either erythromycin (333 mg, 3 times daily) or placebo",
+          "outcomes": "Main outcomes - time to improvement in sore throat, cough, activity level and sense of well-being. Participants completed a daily questionnaire on the progress of outcome measures. Follow-up visits were arranged 2 to 3 weeks after enrolment to repeat cultures, collect diaries and assess compliance",
+          "notes": "It is not clear how many participants kept diaries for the sore throat data in each group. Authors excluded GABHS-positive patients (15 out of 212 initially randomised)"
+        }
+      },
+      {
+        "study_id": "STD-Pichichero-1987",
+        "name": "Pichichero 1987",
+        "year": 1987,
+        "reference": {
+          "authors_list": [
+            "Pichichero FA, Talpey WB, Green JL, Francis AB, Roghmann KJ, Hoekelman RA"
+          ],
+          "title": "Adverse and beneficial effects of immediate treatment of group A beta haemolytic streptococcal pharyngitis with penicillin",
+          "source": "Pediatric Infectious Disease",
+          "year": 1987,
+          "volume": "6",
+          "issue": "7",
+          "pages": "635-43"
+        },
+        "characteristics": {
+          "methods": "Single-blind, randomised, placebo-controlled trial",
+          "participants": "114 GABHS-positive children aged 4 to 18 years. Children were excluded from the study if: a throat swab was negative for GABHS; were allergic to penicillin; had received penicillin in past 7 days; had another acute illness within 7 days, had a GABHS-positive swab in past month, or had another concurrent infection that required antibiotics",
+          "interventions": "Oral penicillin for 48 hours or an identical-looking and tasting oral placebo used for the control condition",
+          "outcomes": "Incidence of otitis media, quinsy or sinusitis",
+          "notes": "Antipyretics administered 4-hourly"
+        }
+      },
+      {
+        "study_id": "STD-Siegel-1961",
+        "name": "Siegel 1961",
+        "year": 1961,
+        "reference": {
+          "authors_list": [
+            "Siegel EE, Stollerman GH"
+          ],
+          "title": "Controlled studies of streptococcal pharyngitis in a pediatric population",
+          "source": "New England Journal of Medicine",
+          "year": 1961,
+          "volume": "265",
+          "pages": "559-65"
+        },
+        "characteristics": {
+          "methods": "Randomised controlled trial",
+          "participants": "1213 children aged 3 to 16 years. Suppurative complications occurring in participants in the control condition were treated with sulphonamides. Participants were excluded if they had a complication on admission",
+          "interventions": "Intramuscular penicillin or no treatment for the controls",
+          "outcomes": "Incidence of rheumatic fever"
+        }
+      },
+      {
+        "study_id": "STD-Taylor-1977",
+        "name": "Taylor 1977",
+        "year": 1977,
+        "reference": {
+          "authors_list": [
+            "Taylor B, Abbott GD, McKerr M, Fergusson DM"
+          ],
+          "title": "Amoxycillin and co-trimoxazole in presumed viral respiratory infections of childhood: placebo controlled trial",
+          "source": "British Medical Journal",
+          "year": 1977,
+          "volume": "2",
+          "issue": "6086",
+          "pages": "552-4"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "122 children aged 2 to 10 years. Children with positive Streptococcus throat swabs were excluded9 children were excluded during trial because of pre-existing suppurative complications",
+          "interventions": "Oral amoxycillin, oral cotrimoxazole or an oral placebo was administered by parents 3 times a day for 5 days",
+          "outcomes": "Incidence of otitis media and sinusitis and symptoms of sore throat and fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Wannamaker-1951",
+        "name": "Wannamaker 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "Wannamaker LW, Rammelkamp CH, Denny FW, Brink WR, Houser HB, Hahn EO"
+          ],
+          "title": "Prophylaxis of acute rheumatic fever by treatment of the preceding streptococcal infection with various amounts of depot penicillin",
+          "source": "American Journal of Medicine",
+          "year": 1951,
+          "volume": "10",
+          "pages": "673-94"
+        },
+        "characteristics": {
+          "methods": "Single-blind study. The intervention outcomes were determined by physicians who were unaware of participant treatment allocation",
+          "participants": "1974 young adult males recruited into the United States Air Force",
+          "interventions": "Intramuscular penicillin over 1 to 3 days or no treatment for the control condition",
+          "outcomes": "Incidence of rheumatic fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Whitfield-1981",
+        "name": "Whitfield 1981",
+        "year": 1981,
+        "reference": {
+          "authors_list": [
+            "Whitfield MJ, Hughes AO"
+          ],
+          "title": "Penicillin in sore throat",
+          "source": "Practitioner",
+          "year": 1981,
+          "volume": "225",
+          "issue": "1352",
+          "pages": "234-9"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "Participants were people who presented to the General Practitioner with sore throat, aged more than 10 years. 745 participants were commenced on the study. Only 528 returned questionnaires. Participants were excluded if the General Practitioner thought the participant would demonstrate poor compliance; if they had previous reaction to penicillin; or a previous episode of rheumatic fever or acute nephritis",
+          "interventions": "Oral penicillin 4 times a day for 5 days or identical-looking and tasting oral lactose placebo 4 times a day for 5 days",
+          "outcomes": "Symptom of fever",
+          "notes": "Antipyretic use was not documented"
+        }
+      },
+      {
+        "study_id": "STD-Zwart-2000",
+        "name": "Zwart 2000",
+        "year": 2000,
+        "reference": {
+          "authors_list": [
+            "Zwart S, Sachs AP, Rujis GJ, Gubbels JW, Hoes AW, de Melker RA"
+          ],
+          "title": "Penicillin for acute sore throat: randomised double blind trial seven days versus three days treatment or placebo in adults",
+          "source": "BMJ",
+          "year": 2000,
+          "volume": "320",
+          "issue": "7228",
+          "pages": "150-4"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "561 participants aged 15 to 60 years presenting with sore throat of less than 7 days duration",
+          "interventions": "Penicillin V for 7 days, penicillin V for 3 days followed by 4 days of placebo or placebo or 7 days",
+          "outcomes": "Resolution of symptoms and recurrence of sore throat",
+          "notes": "Author was contacted for data that could be used in the meta-analysis"
+        }
+      },
+      {
+        "study_id": "STD-Zwart-2003",
+        "name": "Zwart 2003",
+        "year": 2003,
+        "reference": {
+          "authors_list": [
+            "Zwart S, Rovers MM, de Melker RA, Hoes AW"
+          ],
+          "title": "Penicillin for acute sore throat in children: randomised, double blind trial",
+          "source": "BMJ",
+          "year": 2003,
+          "volume": "327",
+          "issue": "7427",
+          "pages": "1324-8"
+        },
+        "characteristics": {
+          "methods": "Double-blind, randomised, placebo-controlled trial",
+          "participants": "156 children aged 4 to 15 years presenting with sore throat of less than 7 days duration with at least 2 of 4 Centor criteria",
+          "interventions": "Penicillin V for 7 days, penicillin V for 3 days followed by 4 days of placebo or placebo or 7 days",
+          "outcomes": "Duration of symptoms of sore throat, occurrence of streptococcal sequelae",
+          "notes": "Author was contacted for data that could be used in the meta-analysis"
+        }
+      }
+    ],
+    "excluded": [
+      {
+        "study_id": "STD-Barwitz-1999",
+        "name": "Barwitz 1999",
+        "year": 1999,
+        "reference": {
+          "authors_list": [
+            "Barwitz HJK"
+          ],
+          "title": "Common cold - trial to rationalize management in general practice by recommendation",
+          "source": "Zeitschrift fur Allgemeinmedizin",
+          "year": 1999,
+          "volume": "75",
+          "pages": "932-8"
+        },
+        "reason_for_exclusion": "Participants were randomised to 2 GPs for subsequent treatment with different management protocols"
+      },
+      {
+        "study_id": "STD-Bass-1986",
+        "name": "Bass 1986",
+        "year": 1986,
+        "reference": {
+          "authors_list": [
+            "Bass J"
+          ],
+          "title": "Treatment of streptococcal pharyngitis revisited",
+          "source": "JAMA",
+          "year": 1986,
+          "volume": "256",
+          "pages": "740-3"
+        },
+        "reason_for_exclusion": "Study used a Likert scale to measure severity and duration of symptoms. No raw scores are available for entry into meta-analysis"
+      },
+      {
+        "study_id": "STD-Bishop-1952",
+        "name": "Bishop 1952",
+        "year": 1952,
+        "reference": {
+          "authors_list": [
+            "Bishop JM, Peden AS, Prankerd TAJ, Cawley RH"
+          ],
+          "title": "Acute sore throat. Clinical features, aetiology and treatment",
+          "source": "Lancet",
+          "year": 1952,
+          "volume": "1",
+          "pages": "1183-7"
+        },
+        "reason_for_exclusion": "Non-randomised allocation to treatment groups. (Quote) \"Where an exceptionally severe case fell in the control group and it was felt unjustifiable to withhold specific treatment, the case was transferred to one of the other groups and the next case was placed in the control group.\" This bias was not quantified"
+      },
+      {
+        "study_id": "STD-Catanzaro-1958",
+        "name": "Catanzaro 1958",
+        "year": 1958,
+        "reference": {
+          "authors_list": [
+            "Catanzaro FJ, Chamovitz R"
+          ],
+          "title": "Prevention of rheumatic fever by treatment of streptococcal infections: factors responsible for failures",
+          "source": "New England Journal of Medicine",
+          "year": 1958,
+          "volume": "259",
+          "pages": "51-7"
+        },
+        "reason_for_exclusion": "Study compared sulphonamides with other antibiotics. No control condition was used"
+      },
+      {
+        "study_id": "STD-Cruickshank-1960",
+        "name": "Cruickshank 1960",
+        "year": 1960,
+        "reference": {
+          "authors_list": [
+            "Cruickshank R"
+          ],
+          "title": "Sore throat: a controlled therapeutic trial in young adults",
+          "source": "Controlled Clinical Trials: paper delivered at the conference convened by the Council for International Organisation of Medical Sciences",
+          "year": 1960,
+          "pages": "38-44"
+        },
+        "reason_for_exclusion": "Study is another report of the data previously published by Brumfitt 1957"
+      },
+      {
+        "study_id": "STD-Dowell-2001",
+        "name": "Dowell 2001",
+        "year": 2001,
+        "reference": {
+          "authors_list": [
+            "Dowell J, Pitkethly M, Bain J, Martin S"
+          ],
+          "title": "A randomised controlled trial of delayed antibiotic prescribing as a strategy for managing uncomplicated respiratory tract infection in primary care",
+          "source": "British Journal of General Practice",
+          "year": 2001,
+          "volume": "51",
+          "pages": "200-5"
+        },
+        "reason_for_exclusion": "Cough was the main complaint for patients, not sore throat"
+      },
+      {
+        "study_id": "STD-Gerber-1985",
+        "name": "Gerber 1985",
+        "year": 1985,
+        "reference": {
+          "authors_list": [
+            "Gerber MA, Spadaccini LJ, Wright LL, Deutsch L, Kaplan EL"
+          ],
+          "title": "Twice-daily penicillin in the treatment of streptococcal pharyngitis",
+          "source": "American Journal of Diseases of Children",
+          "year": 1985,
+          "volume": "139",
+          "pages": "1145-8"
+        },
+        "reason_for_exclusion": "Study compared 2 different regimens of penicillin. No placebo control group was used"
+      },
+      {
+        "study_id": "STD-Gerber-1989",
+        "name": "Gerber 1989",
+        "year": 1989,
+        "reference": {
+          "authors_list": [
+            "Gerber MA, Randolph MF"
+          ],
+          "title": "Failure of once-daily penicillin V therapy for streptococcal pharyngitis",
+          "source": "American Journal of Diseases of Children",
+          "year": 1989,
+          "volume": "143",
+          "pages": "153-5"
+        },
+        "reason_for_exclusion": "Assessed 2 regimes of penicillin. No control group used"
+      },
+      {
+        "study_id": "STD-Ginsburg-1980",
+        "name": "Ginsburg 1980",
+        "year": 1980,
+        "reference": {
+          "authors_list": [
+            "Ginsburg CM, McCracken GH, Crow SD, Steinberg JB, Cope F"
+          ],
+          "title": "A controlled comparative study of penicillin V and cefadroxil therapy on Group A streptococcal tonsillopharyngitis",
+          "source": "Journal of International Medical Research",
+          "year": 1980,
+          "volume": "8",
+          "issue": "Suppl 1",
+          "pages": "82-6"
+        },
+        "reason_for_exclusion": "Study compared penicillin V with cefadroxil. No placebo control group was used"
+      },
+      {
+        "study_id": "STD-Guthrie-1988",
+        "name": "Guthrie 1988",
+        "year": 1988,
+        "reference": {
+          "authors_list": [
+            "Guthrie RM, Ruoff GE, Rofman BA, Ginsberg D, Karp RR, Brown SM, et al"
+          ],
+          "title": "Aetiology of acute pharyngitis and clinical response to empirical therapy with erythromycin versus amoxicillin",
+          "source": "Family Practice",
+          "year": 1988,
+          "volume": "5",
+          "pages": "29-35"
+        },
+        "reason_for_exclusion": "Study did not use control condition"
+      },
+      {
+        "study_id": "STD-Haverkorn-1971",
+        "name": "Haverkorn 1971",
+        "year": 1971,
+        "reference": {
+          "authors_list": [
+            "Haverkorn MV, Goslings WRO"
+          ],
+          "title": "Streptococcal pharyngitis in the general population. A controlled study of streptococcal pharyngitis and its complications in the Netherlands",
+          "source": "Journal of Infectious Diseases",
+          "year": 1971,
+          "volume": "124",
+          "pages": "339-47"
+        },
+        "reason_for_exclusion": "Participants not treated with antibiotics given antipyretics. Participants receiving antibiotics received no antipyretics. No control condition"
+      },
+      {
+        "study_id": "STD-Herz-1988",
+        "name": "Herz 1988",
+        "year": 1988,
+        "reference": {
+          "authors_list": [
+            "Herz MJ"
+          ],
+          "title": "Antibiotics and the adult sore throat - an unnecessary ceremony",
+          "source": "Family Practice",
+          "year": 1988,
+          "volume": "5",
+          "pages": "196-9"
+        },
+        "reason_for_exclusion": "No participant-centred outcomes, except return visits for URIsPoor randomisation - out of a series of 202, the first and last 50 were assigned to antibiotics, with the middle 102 assigned to control"
+      },
+      {
+        "study_id": "STD-Howie-1970",
+        "name": "Howie 1970",
+        "year": 1970,
+        "reference": {
+          "authors_list": [
+            "Howie JGR, Clark GA"
+          ],
+          "title": "Double-blind trial of early demethylchlortetracycline in minor respiratory illness in general practice",
+          "source": "Lancet",
+          "year": 1970,
+          "volume": "Nov 28",
+          "pages": "1099-102"
+        },
+        "reason_for_exclusion": "Illness was \"cold or flu-like illness\", not acute pharyngitis (exclusively). Soreness of throat not an outcome measure"
+      },
+      {
+        "study_id": "STD-Jensen-1991",
+        "name": "Jensen 1991",
+        "year": 1991,
+        "reference": {
+          "authors_list": [
+            "Jensen JH, Larsen SB"
+          ],
+          "title": "Treatment of recurrent acute tonsillitis with clindamycin. An alternative to tonsillectomy?",
+          "source": "Clinical Otolaryngology",
+          "year": 1991,
+          "volume": "16",
+          "pages": "498-500"
+        },
+        "reason_for_exclusion": "Participants were not randomly allocated to treatment groups and were not blinded to treatment"
+      },
+      {
+        "study_id": "STD-Kapur-2011",
+        "name": "Kapur 2011",
+        "year": 2011,
+        "reference": {
+          "authors_list": [
+            "Kapur A, Hannay D, Baxter G, Mitra A"
+          ],
+          "title": "A randomized prospective study to evaluate the natural history of acute upper respiratory infections in children and provide guidance for health professionals",
+          "source": "American Journal of Respiratory and Clinical Care Medicine",
+          "year": 2011,
+          "volume": "183",
+          "pages": "A4934"
+        },
+        "reason_for_exclusion": "No intervention was provided to participants. Study tracked natural course of illness only"
+      },
+      {
+        "study_id": "STD-Kolobukhina-2011",
+        "name": "Kolobukhina 2011",
+        "year": 2011,
+        "reference": {
+          "authors_list": [
+            "Kolobukhina LV, Merkulova LN, Schelkanov MY, Isaeva EI, Kruzhkova IS, Malikov VE, et al"
+          ],
+          "title": "The efficacy of Ingavirin in the combined treatment of ARVI complicated by tonsillitis",
+          "source": "Vestnik Otorinolaringologii",
+          "year": 2011,
+          "volume": "6",
+          "pages": "91-5"
+        },
+        "reason_for_exclusion": "Study investigated the combination of Ingavirin (antiviral medication) with an antibacterial agent in adults with viral respiratory infections. No comparison of antibiotics alone against placebo"
+      },
+      {
+        "study_id": "STD-Marlow-1989",
+        "name": "Marlow 1989",
+        "year": 1989,
+        "reference": {
+          "authors_list": [
+            "Marlow RA, Torrez AJ, Haxby D"
+          ],
+          "title": "The treatment of non streptococcal pharyngitis with erythromycin: a preliminary study",
+          "source": "Family Medicine",
+          "year": 1989,
+          "volume": "21",
+          "pages": "425-7"
+        },
+        "reason_for_exclusion": "Participant population highly selected (non-pregnant, negative rapid strep. test, negative throat culture, no other infection present, not allergic to erythromycin, aged older than 12) and participant-centred outcomes not compatible with those in this meta-analysis"
+      },
+      {
+        "study_id": "STD-Massell-1951",
+        "name": "Massell 1951",
+        "year": 1951,
+        "reference": {
+          "authors_list": [
+            "Massell BF, Sturgis GP, Knobloch JD, Streeper RB, Hall TN, Norcross P"
+          ],
+          "title": "Prevention of rheumatic fever by prompt penicillin therapy of hemolytic streptococcic respiratory infections",
+          "source": "Journal of the American Medical Association",
+          "year": 1951,
+          "volume": "146",
+          "issue": "16",
+          "pages": "1469-74"
+        },
+        "reason_for_exclusion": "Study examined effect of penicillin on haemolytic streptococci infections in rheumatic patients only, without randomisation to control condition. Infections that were not treated with penicillin for 'various reasons' were treated as controls. These reasons were not given"
+      },
+      {
+        "study_id": "STD-McDonald-1985",
+        "name": "McDonald 1985",
+        "year": 1985,
+        "reference": {
+          "authors_list": [
+            "McDonald CJ, Tierny WM, Hui SL, French MLV, Leland DS, Jones RB"
+          ],
+          "title": "A controlled trial of erythromycin in adults with nonstreptococcal pharyngitis",
+          "source": "Journal of Infectious Diseases",
+          "year": 1985,
+          "volume": "152",
+          "pages": "1093-4"
+        },
+        "reason_for_exclusion": "No data suitable for this meta-analysis were described although symptoms were recorded. The author was approached for these data, but no reply was received"
+      },
+      {
+        "study_id": "STD-Merenstein-1974",
+        "name": "Merenstein 1974",
+        "year": 1974,
+        "reference": {
+          "authors_list": [
+            "Merenstein JH, Rogers KD"
+          ],
+          "title": "Early treatment and management by nurse practitioners",
+          "source": "JAMA",
+          "year": 1974,
+          "volume": "227",
+          "pages": "1278-82"
+        },
+        "reason_for_exclusion": "No data on suppurative or non-suppurative complicationsNo data on day 3 for soreness of throat, fever or headache"
+      },
+      {
+        "study_id": "STD-Morris-1956",
+        "name": "Morris 1956",
+        "year": 1956,
+        "reference": {
+          "authors_list": [
+            "Morris AJ, Chamovitz R, Catanzaro FJ, Rammelkamp CH"
+          ],
+          "title": "Prevention of rheumatic fever by treatment of previous streptococcic infections; effect of sulfadiazine",
+          "source": "Journal of the American Medical Association",
+          "year": 1956,
+          "volume": "160",
+          "issue": "2",
+          "pages": "114-6"
+        },
+        "reason_for_exclusion": "Study observed effect of sulfadiazine on prevention of rheumatic fever only. No control condition was used"
+      },
+      {
+        "study_id": "STD-Nasonova-1999",
+        "name": "Nasonova 1999",
+        "year": 1999,
+        "reference": {
+          "authors_list": [
+            "Nasonova VA, Belov BS, Strachunsky LS, Sudilovskaya EI, Bogdanovich TM, Krechikova OI, et al"
+          ],
+          "title": "Antibacterial therapy of Streptococcus tonsillitis (quinsy and pharyngitis)",
+          "source": "Antibiotiki i Khimioterapiia",
+          "year": 1999,
+          "volume": "44",
+          "pages": "19-23"
+        },
+        "reason_for_exclusion": "Study a controlled clinical trial without randomisation of participants"
+      },
+      {
+        "study_id": "STD-Pandraud-2002",
+        "name": "Pandraud 2002",
+        "year": 2002,
+        "reference": {
+          "authors_list": [
+            "Pandraud L"
+          ],
+          "title": "Therapeutic efficacy and clinical acceptability of fusafungine in follicular pharyngitis",
+          "source": "Current Medical Research and Opinion",
+          "year": 2002,
+          "volume": "18",
+          "pages": "381-8"
+        },
+        "reason_for_exclusion": "Investigation of effect of fusafungine on chronic conditions of follicular pharyngitis. Not relevant for this review"
+      },
+      {
+        "study_id": "STD-Randolph-1985",
+        "name": "Randolph 1985",
+        "year": 1985,
+        "reference": {
+          "authors_list": [
+            "Randolph MF, Gerber MA, DeMeo KK, Wright L"
+          ],
+          "title": "Effect of antibiotic therapy on the clinical course of streptococcal pharyngitis",
+          "source": "Journal of Pediatrics",
+          "year": 1985,
+          "volume": "106",
+          "pages": "870-5"
+        },
+        "reason_for_exclusion": "No data on suppurative or non-suppurative complicationsNo data on day 3 or 7 for soreness of throat, fever or headache"
+      },
+      {
+        "study_id": "STD-Schalen-1985",
+        "name": "Schalen 1985",
+        "year": 1985,
+        "reference": {
+          "authors_list": [
+            "Schalen L, Christenses P, Elisson I, Fex S, Kamme S, Schalen C"
+          ],
+          "title": "Inefficacy of penicillin V in acute laryngitis in adults. Evaluation from results of double-blind study",
+          "source": "Annals of Otology Rhinology and Laryngology",
+          "year": 1985,
+          "volume": "94",
+          "pages": "14-7"
+        },
+        "reason_for_exclusion": "Primary complaint hoarseness, not sore throat. No patient-centred outcomes apart from hoarseness"
+      },
+      {
+        "study_id": "STD-Schalen-1993",
+        "name": "Schalen 1993",
+        "year": 1993,
+        "reference": {
+          "authors_list": [
+            "Schalen L, Eliasson I, Kamme C, Schalen C"
+          ],
+          "title": "Erythromycin in acute laryngitis in adults",
+          "source": "Annals of Otology Rhinology and Laryngology",
+          "year": 1993,
+          "volume": "102",
+          "pages": "209-14"
+        },
+        "reason_for_exclusion": "Patients presented for laryngitis and hoarseness, not pharyngitis"
+      },
+      {
+        "study_id": "STD-Schwartz-1981",
+        "name": "Schwartz 1981",
+        "year": 1981,
+        "reference": {
+          "authors_list": [
+            "Schwartz R, Wientzen RL, Pedeira F"
+          ],
+          "title": "Penicillin V for Group A Streptococcal pharyngotonsillitis. A randomised trial of seven vs ten days therapy",
+          "source": "JAMA",
+          "year": 1981,
+          "volume": "246",
+          "pages": "1790-5"
+        },
+        "reason_for_exclusion": "Study compared 7 versus 10 days of treatment with penicillin. No control group was used"
+      },
+      {
+        "study_id": "STD-Shevrygin-2000",
+        "name": "Shevrygin 2000",
+        "year": 2000,
+        "reference": {
+          "authors_list": [
+            "Shevrygin BV, Manuilov BM"
+          ],
+          "title": "Therapeutic efficacy of new drug Pharingal at acute inflammatory diseases of pharynx and tonsils in pediatrics",
+          "source": "Antibiotiki i Khimioterapiia",
+          "year": 2000,
+          "volume": "45",
+          "pages": "34-6"
+        },
+        "reason_for_exclusion": "Study was a clinical trial without a control condition"
+      },
+      {
+        "study_id": "STD-Shvartzman-1993",
+        "name": "Shvartzman 1993",
+        "year": 1993,
+        "reference": {
+          "authors_list": [
+            "Shvartzman P, Tabenkin H, Rosentzwaig A, Dolginov F"
+          ],
+          "title": "Treatment of streptococcal pharyngitis with amoxycillin once a day",
+          "source": "BMJ",
+          "year": 1993,
+          "volume": "306",
+          "pages": "1170-2"
+        },
+        "reason_for_exclusion": "Study compared efficacy of amoxycillin against penicillin, no control condition was used"
+      },
+      {
+        "study_id": "STD-Stillerman-1986",
+        "name": "Stillerman 1986",
+        "year": 1986,
+        "reference": {
+          "authors_list": [
+            "Stillerman M"
+          ],
+          "title": "Comparison of oral cephalosporins with penicillin for Group A streptococcal pharyngitis",
+          "source": "Pediatric Infectious Diseases Journal",
+          "year": 1986,
+          "volume": "5",
+          "pages": "648-54"
+        },
+        "reason_for_exclusion": "Study compared penicillin with cephalosporins, no control group was used"
+      },
+      {
+        "study_id": "STD-Stromberg-1988",
+        "name": "Stromberg 1988",
+        "year": 1988,
+        "reference": {
+          "authors_list": [
+            "Stromberg A, Schwan A, Cars O"
+          ],
+          "title": "Five versus ten days treatment of group A streptococcal pharyngotonsillitis: a randomised controlled clinical trial with phenoxymethylpenicillin and cefadroxil",
+          "source": "Scandinavian Journal of Infectious Disease",
+          "year": 1988,
+          "volume": "20",
+          "pages": "36-46"
+        },
+        "reason_for_exclusion": "No placebo control group was used. Study compared different antibiotic regimens"
+      },
+      {
+        "study_id": "STD-Supajatura-2012",
+        "name": "Supajatura 2012",
+        "year": 2012,
+        "reference": {
+          "authors_list": [
+            "Supajatura V, Pongbaibul Y, Tharavichitkul P"
+          ],
+          "title": "Mangosteen spray for efficacious treatment of streptococcal pharyngitis",
+          "source": "International Journal of Infectious Diseases",
+          "year": 2012,
+          "volume": "16S",
+          "pages": "e441"
+        },
+        "reason_for_exclusion": "Antibiotics were not offered as an intervention. Study investigated the efficacy of Mangosteen spray against placebo only"
+      },
+      {
+        "study_id": "STD-Todd-1984",
+        "name": "Todd 1984",
+        "year": 1984,
+        "reference": {
+          "authors_list": [
+            "Todd JK, Todd N, Damato J, Todd WA"
+          ],
+          "title": "Bacteriology and treatment of purulent nasopharyngitis: a double blind, placebo-controlled evaluation",
+          "source": "Pediatric Infectious Disease",
+          "year": 1984,
+          "volume": "3",
+          "pages": "226-31"
+        },
+        "reason_for_exclusion": "Primary complaint not sore throat - purulent nasopharyngitis instead"
+      },
+      {
+        "study_id": "STD-Valkenburg-1971",
+        "name": "Valkenburg 1971",
+        "year": 1971,
+        "reference": {
+          "authors_list": [
+            "Valkenburg HHMJ, Goslings WRO"
+          ],
+          "title": "Streptococcal pharyngitis in the general population. The attack rate if not treated with penicillin",
+          "source": "Journal of Infectious Diseases",
+          "year": 1971,
+          "volume": "124",
+          "pages": "783-6"
+        },
+        "reason_for_exclusion": "Study did not involve any control measures. Data only given for participants not treated with antibiotics"
+      }
+    ]
+  },
+  "analyses": [
+    {
+      "comparison_id": "CMP-001",
+      "comparison_name": "Antibiotics versus placebo for the treatment of sore throats: symptom of sore throat",
+      "outcomes": [
+        {
+          "outcome_id": "CMP-001.01",
+          "outcome_name": "Symptom of sore throat on day 3",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.6837765472337998,
+            "ci_lower": 0.5895886991303211,
+            "ci_upper": 0.7930110723571225,
+            "log_effect_estimate": -0.16508579909604618,
+            "log_ci_lower": -0.22945084935588722,
+            "log_ci_upper": -0.10072074883620512,
+            "z_value": 5.026986218157962,
+            "p_value_effect": 4.982481461166904e-07,
+            "total_participants_intervention": 2066,
+            "total_participants_control": 1555
+          },
+          "heterogeneity": {
+            "i2": 83.70074514272594,
+            "tau2": 0.059731301081404224,
+            "chi2": 85.8934971113238,
+            "df": 14,
+            "p_value_chi2": 2.250977182427505e-12,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 8.505468357593305,
+              "effect_size": 0.6593904793888002,
+              "ci_start": 0.5564838644124426,
+              "ci_end": 0.781326884954097,
+              "events_intervention": 119,
+              "total_intervention": 277,
+              "events_control": 129,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 5.894583244750027,
+              "effect_size": 0.7692307692307693,
+              "ci_start": 0.5268974608143697,
+              "ci_end": 1.1230192216466712,
+              "events_intervention": 21,
+              "total_intervention": 42,
+              "events_control": 26,
+              "total_control": 40
+            },
+            {
+              "study_id": "STD-Chapple-1956",
+              "weight": 6.427023171132471,
+              "effect_size": 0.5205205205205206,
+              "ci_start": 0.37230366810320353,
+              "ci_end": 0.7277436015157603,
+              "events_intervention": 40,
+              "total_intervention": 135,
+              "events_control": 37,
+              "total_control": 65
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 6.500631164239401,
+              "effect_size": 0.631578947368421,
+              "ci_start": 0.4543772874975945,
+              "ci_end": 0.8778871165762538,
+              "events_intervention": 36,
+              "total_intervention": 117,
+              "events_control": 57,
+              "total_control": 117
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 5.24327068399012,
+              "effect_size": 0.3385696568830095,
+              "ci_start": 0.219084263940608,
+              "ci_end": 0.523220657203175,
+              "events_intervention": 18,
+              "total_intervention": 82,
+              "events_control": 59,
+              "total_control": 91
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 8.738779534934451,
+              "effect_size": 0.5904989384288747,
+              "ci_start": 0.5092787953016872,
+              "ci_end": 0.6846721275309944,
+              "events_intervention": 89,
+              "total_intervention": 157,
+              "events_control": 48,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-El_x002d_Daher-1991",
+              "weight": 7.574240328909656,
+              "effect_size": 0.42121366649668535,
+              "ci_start": 0.32933958720699136,
+              "ci_end": 0.5387173596354544,
+              "events_intervention": 42,
+              "total_intervention": 111,
+              "events_control": 106,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 1.7498273479134738,
+              "effect_size": 0.7087912087912088,
+              "ci_start": 0.25742720209073794,
+              "ci_end": 1.951561348526883,
+              "events_intervention": 6,
+              "total_intervention": 52,
+              "events_control": 7,
+              "total_control": 43
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 8.751417477047823,
+              "effect_size": 0.9624475791078917,
+              "ci_start": 0.8310907461170167,
+              "ci_end": 1.1145658243200058,
+              "events_intervention": 135,
+              "total_intervention": 215,
+              "events_control": 122,
+              "total_control": 187
+            },
+            {
+              "study_id": "STD-MacDonald-1951",
+              "weight": 5.522210718482226,
+              "effect_size": 0.6666666666666666,
+              "ci_start": 0.4423243428206223,
+              "ci_end": 1.0047930928022244,
+              "events_intervention": 18,
+              "total_intervention": 41,
+              "events_control": 27,
+              "total_control": 41
+            },
+            {
+              "study_id": "STD-Middleton-1988",
+              "weight": 0.8324900178682465,
+              "effect_size": 0.27058823529411763,
+              "ci_start": 0.05731127398694374,
+              "ci_end": 1.277549563743161,
+              "events_intervention": 2,
+              "total_intervention": 34,
+              "events_control": 5,
+              "total_control": 23
+            },
+            {
+              "study_id": "STD-Petersen-1997",
+              "weight": 8.462864733167745,
+              "effect_size": 0.8199210446401458,
+              "ci_start": 0.689344860355195,
+              "ci_end": 0.9752310608327314,
+              "events_intervention": 60,
+              "total_intervention": 89,
+              "events_control": 74,
+              "total_control": 90
+            },
+            {
+              "study_id": "STD-Whitfield-1981",
+              "weight": 8.668568186505786,
+              "effect_size": 0.8306818181818182,
+              "ci_start": 0.7116230747112225,
+              "ci_end": 0.9696597926337156,
+              "events_intervention": 129,
+              "total_intervention": 256,
+              "events_control": 165,
+              "total_control": 272
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 9.058007811332624,
+              "effect_size": 0.7518444283338309,
+              "ci_start": 0.6707171703182121,
+              "ci_end": 0.8427845139978163,
+              "events_intervention": 215,
+              "total_intervention": 358,
+              "events_control": 131,
+              "total_control": 164
+            },
+            {
+              "study_id": "STD-Zwart-2003",
+              "weight": 8.070617222132654,
+              "effect_size": 1.1642105263157896,
+              "ci_start": 0.9468555600496903,
+              "ci_end": 1.4314603058499842,
+              "events_intervention": 79,
+              "total_intervention": 100,
+              "events_control": 38,
+              "total_control": 56
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-001.02",
+          "outcome_name": "Symptom of sore throat on day 3: blind versus unblinded studies",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.6837765472337998,
+            "ci_lower": 0.5895886991303211,
+            "ci_upper": 0.7930110723571225,
+            "log_effect_estimate": -0.16508579909604618,
+            "log_ci_lower": -0.22945084935588722,
+            "log_ci_upper": -0.10072074883620512,
+            "z_value": 5.026986218157962,
+            "p_value_effect": 4.982481461166904e-07,
+            "total_participants_intervention": 2066,
+            "total_participants_control": 1555
+          },
+          "heterogeneity": {
+            "i2": 83.70074514272594,
+            "tau2": 0.059731301081404224,
+            "chi2": 85.89349711132378,
+            "df": 14,
+            "p_value_chi2": 2.2503110486127298e-12,
+            "q": 1.3050116683610775,
+            "p_value_q": 0.2532999343178899
+          }
+        },
+        {
+          "outcome_id": "CMP-001.03",
+          "outcome_name": "Symptom of sore throat on day 3: antipyretics versus no antipyretics",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.5790673397329521,
+            "ci_lower": 0.4807833084947394,
+            "ci_upper": 0.6974430643094324,
+            "log_effect_estimate": -0.2372709292364641,
+            "log_ci_lower": -0.3180506182816507,
+            "log_ci_upper": -0.15649124019127747,
+            "z_value": 5.756923322912093,
+            "p_value_effect": 8.566079563503702e-09,
+            "total_participants_intervention": 693,
+            "total_participants_control": 444
+          },
+          "heterogeneity": {
+            "i2": 61.97367281136948,
+            "tau2": 0.02509529126001107,
+            "chi2": 10.519027988577237,
+            "df": 4,
+            "p_value_chi2": 0.03253593474081795,
+            "q": 0.5655977690228615,
+            "p_value_q": 0.452013681727095
+          }
+        },
+        {
+          "outcome_id": "CMP-001.04",
+          "outcome_name": "Symptom of sore throat on day 3: GABHS-positive throat swab, negative swab, untested/inseparable",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.6750050411138486,
+            "ci_lower": 0.5862285858543921,
+            "ci_upper": 0.7772254996147162,
+            "log_effect_estimate": -0.17069298373230568,
+            "log_ci_lower": -0.23193300818326412,
+            "log_ci_upper": -0.10945295928134727,
+            "z_value": 5.462964842493046,
+            "p_value_effect": 4.682473638783072e-08,
+            "total_participants_intervention": 2054,
+            "total_participants_control": 1546
+          },
+          "heterogeneity": {
+            "i2": 81.58227354294552,
+            "tau2": 0.06791603062321944,
+            "chi2": 103.16148436835148,
+            "df": 19,
+            "p_value_chi2": 1.4355183708403274e-13,
+            "q": 13.853972946994332,
+            "p_value_q": 0.0009809584506433877
+          }
+        },
+        {
+          "outcome_id": "CMP-001.05",
+          "outcome_name": "Symptom of sore throat at one week (6 to 8 days)",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.4923906827317763,
+            "ci_lower": 0.3187646177544653,
+            "ci_upper": 0.760588129727169,
+            "log_effect_estimate": -0.30769017360518136,
+            "log_ci_lower": -0.4965298904339454,
+            "log_ci_upper": -0.11885045677641734,
+            "z_value": 3.193510712631899,
+            "p_value_effect": 0.0014055412247004646,
+            "total_participants_intervention": 1839,
+            "total_participants_control": 1135
+          },
+          "heterogeneity": {
+            "i2": 71.49767399548418,
+            "tau2": 0.295203940480954,
+            "chi2": 38.59334146363069,
+            "df": 11,
+            "p_value_chi2": 6.20964887668718e-05,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 2.043387122524366,
+              "effect_size": 0.066006600660066,
+              "ci_start": 0.003820678133937854,
+              "ci_end": 1.1403397977957725,
+              "events_intervention": 0,
+              "total_intervention": 100,
+              "events_control": 7,
+              "total_control": 99
+            },
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 8.159308392809303,
+              "effect_size": 0.19061371841155234,
+              "ci_start": 0.06423205642886788,
+              "ci_end": 0.5656613172102819,
+              "events_intervention": 4,
+              "total_intervention": 277,
+              "events_control": 15,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 1.8589872566294385,
+              "effect_size": 0.19069767441860466,
+              "ci_start": 0.009436800535005082,
+              "ci_end": 3.853594541260966,
+              "events_intervention": 0,
+              "total_intervention": 42,
+              "events_control": 2,
+              "total_control": 40
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 7.502842213147043,
+              "effect_size": 0.2,
+              "ci_start": 0.061624446499956353,
+              "ci_end": 0.6490930510836854,
+              "events_intervention": 3,
+              "total_intervention": 51,
+              "events_control": 15,
+              "total_control": 51
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 7.05268914376525,
+              "effect_size": 0.3442622950819672,
+              "ci_start": 0.09925655614140866,
+              "ci_end": 1.1940423123914907,
+              "events_intervention": 3,
+              "total_intervention": 61,
+              "events_control": 10,
+              "total_control": 70
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 9.883061644702872,
+              "effect_size": 0.11942675159235669,
+              "ci_start": 0.049406023985461955,
+              "ci_end": 0.2886844122510116,
+              "events_intervention": 6,
+              "total_intervention": 157,
+              "events_control": 16,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 52,
+              "events_control": 0,
+              "total_control": 43
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 14.873244208462422,
+              "effect_size": 0.8942562592047129,
+              "ci_start": 0.6174585006199147,
+              "ci_end": 1.2951384689399066,
+              "events_intervention": 66,
+              "total_intervention": 388,
+              "events_control": 35,
+              "total_control": 184
+            },
+            {
+              "study_id": "STD-MacDonald-1951",
+              "weight": 1.6888646242278822,
+              "effect_size": 0.3333333333333333,
+              "ci_start": 0.013974591508858441,
+              "ci_end": 7.950938032119094,
+              "events_intervention": 0,
+              "total_intervention": 41,
+              "events_control": 1,
+              "total_control": 41
+            },
+            {
+              "study_id": "STD-Petersen-1997",
+              "weight": 13.993214767748439,
+              "effect_size": 0.663623595505618,
+              "ci_start": 0.41644165890132645,
+              "ci_end": 1.0575221452956358,
+              "events_intervention": 21,
+              "total_intervention": 89,
+              "events_control": 32,
+              "total_control": 90
+            },
+            {
+              "study_id": "STD-Taylor-1977",
+              "weight": 6.387745827652728,
+              "effect_size": 0.9147286821705426,
+              "ci_start": 0.23684136916078635,
+              "ci_end": 3.532864908484046,
+              "events_intervention": 6,
+              "total_intervention": 129,
+              "events_control": 3,
+              "total_control": 59
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 15.861882476639458,
+              "effect_size": 0.8125,
+              "ci_start": 0.6386689878083188,
+              "ci_end": 1.0336438164399022,
+              "events_intervention": 117,
+              "total_intervention": 352,
+              "events_control": 63,
+              "total_control": 154
+            },
+            {
+              "study_id": "STD-Zwart-2003",
+              "weight": 10.694772321690792,
+              "effect_size": 1.6,
+              "ci_start": 0.7217059425342434,
+              "ci_end": 3.5471510612904984,
+              "events_intervention": 20,
+              "total_intervention": 100,
+              "events_control": 7,
+              "total_control": 56
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-001.06",
+          "outcome_name": "Symptom of sore throat at one week (6 to 8 days): blind versus unblinded studies",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.5672634450098082,
+            "ci_lower": 0.3763357130138791,
+            "ci_upper": 0.855055220423708,
+            "log_effect_estimate": -0.2462152018786887,
+            "log_ci_lower": -0.4244245666152556,
+            "log_ci_upper": -0.06800583714212179,
+            "z_value": 2.7078988180101464,
+            "p_value_effect": 0.006771066217089183,
+            "total_participants_intervention": 1825,
+            "total_participants_control": 1119
+          },
+          "heterogeneity": {
+            "i2": 66.94320640377137,
+            "tau2": 0.24120247474667394,
+            "chi2": 33.276064624897444,
+            "df": 11,
+            "p_value_chi2": 0.0004746051661231876,
+            "q": 0.983079534726631,
+            "p_value_q": 0.32143992421032364
+          }
+        },
+        {
+          "outcome_id": "CMP-001.07",
+          "outcome_name": "Symptom of sore throat at one week (6 to 8 days): GABHS-positive throat swab, GABHS-negative swab",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.48294203843339084,
+            "ci_lower": 0.2922212703718183,
+            "ci_upper": 0.7981383839356948,
+            "log_effect_estimate": -0.3161049891222887,
+            "log_ci_lower": -0.5342881755717958,
+            "log_ci_upper": -0.09792180267278161,
+            "z_value": 2.83960649807675,
+            "p_value_effect": 0.0045169214802995945,
+            "total_participants_intervention": 1505,
+            "total_participants_control": 1019
+          },
+          "heterogeneity": {
+            "i2": 64.48994044953011,
+            "tau2": 0.41662833113873937,
+            "chi2": 33.793240991174876,
+            "df": 12,
+            "p_value_chi2": 0.0007270743950883451,
+            "q": 3.720158352353884,
+            "p_value_q": 0.15566039713928526
+          }
+        }
+      ]
+    },
+    {
+      "comparison_id": "CMP-002",
+      "comparison_name": "Antibiotics versus control for the treatment of sore throat: symptom of fever",
+      "outcomes": [
+        {
+          "outcome_id": "CMP-002.01",
+          "outcome_name": "Symptom of fever on day 3",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.7061913003331955,
+            "ci_lower": 0.4545685975571122,
+            "ci_upper": 1.0970976775482868,
+            "log_effect_estimate": -0.15107763687283624,
+            "log_ci_lower": -0.3424005694441311,
+            "log_ci_upper": 0.04024529569845868,
+            "z_value": 1.5476802658240556,
+            "p_value_effect": 0.1216992956322425,
+            "total_participants_intervention": 712,
+            "total_participants_control": 622
+          },
+          "heterogeneity": {
+            "i2": 56.06847948001717,
+            "tau2": 0.1385416661645487,
+            "chi2": 11.38134974801449,
+            "df": 5,
+            "p_value_chi2": 0.044321874617291535,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 27.41327001256631,
+              "effect_size": 0.6075812274368231,
+              "ci_start": 0.3995180755008319,
+              "ci_end": 0.9240006161695375,
+              "events_intervention": 34,
+              "total_intervention": 277,
+              "events_control": 40,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 15.556231994976535,
+              "effect_size": 0.300509337860781,
+              "ci_start": 0.12898436682876635,
+              "ci_end": 0.7001302899087831,
+              "events_intervention": 6,
+              "total_intervention": 62,
+              "events_control": 19,
+              "total_control": 59
+            },
+            {
+              "study_id": "STD-Krober-1985",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 15,
+              "events_control": 0,
+              "total_control": 11
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 3.5344268291962933,
+              "effect_size": 0.27564102564102566,
+              "ci_start": 0.02973360070952835,
+              "ci_end": 2.5552900827140284,
+              "events_intervention": 1,
+              "total_intervention": 52,
+              "events_control": 3,
+              "total_control": 43
+            },
+            {
+              "study_id": "STD-Middleton-1988",
+              "weight": 1.8503428237241142,
+              "effect_size": 1.9411764705882353,
+              "ci_start": 0.08273890071218523,
+              "ci_end": 45.54285901227169,
+              "events_intervention": 1,
+              "total_intervention": 33,
+              "events_control": 0,
+              "total_control": 21
+            },
+            {
+              "study_id": "STD-Nelson-1984",
+              "weight": 24.347798747705767,
+              "effect_size": 1.2705882352941176,
+              "ci_start": 0.7594280196913527,
+              "ci_end": 2.125803133157957,
+              "events_intervention": 12,
+              "total_intervention": 17,
+              "events_control": 10,
+              "total_control": 18
+            },
+            {
+              "study_id": "STD-Whitfield-1981",
+              "weight": 27.29792959183098,
+              "effect_size": 0.8348214285714286,
+              "ci_start": 0.5469943220898557,
+              "ci_end": 1.2741024713736526,
+              "events_intervention": 33,
+              "total_intervention": 256,
+              "events_control": 42,
+              "total_control": 272
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-002.02",
+          "outcome_name": "Symptom of fever on day 3: blinded versus unblinded studies",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.7061913003331957,
+            "ci_lower": 0.45456859755711226,
+            "ci_upper": 1.0970976775482868,
+            "log_effect_estimate": -0.15107763687283618,
+            "log_ci_lower": -0.34240056944413105,
+            "log_ci_upper": 0.04024529569845868,
+            "z_value": 1.5476802658240552,
+            "p_value_effect": 0.12169929563224258,
+            "total_participants_intervention": 712,
+            "total_participants_control": 622
+          },
+          "heterogeneity": {
+            "i2": 56.06847948001717,
+            "tau2": 0.1385416661645487,
+            "chi2": 11.38134974801449,
+            "df": 5,
+            "p_value_chi2": 0.044321874617291535,
+            "q": 0.2730599888702696,
+            "p_value_q": 0.6012865073414311
+          }
+        },
+        {
+          "outcome_id": "CMP-002.03",
+          "outcome_name": "Symptom of fever on day 3: children compared with adults",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.511696689812963,
+            "ci_lower": 0.1791112846618017,
+            "ci_upper": 1.4618481624981823,
+            "log_effect_estimate": -0.29098739248775013,
+            "log_ci_lower": -0.7468770511584437,
+            "log_ci_upper": 0.16490226618294343,
+            "z_value": 1.2510150173052699,
+            "p_value_effect": 0.2109290228760643,
+            "total_participants_intervention": 371,
+            "total_participants_control": 286
+          },
+          "heterogeneity": {
+            "i2": 88.67952616540953,
+            "tau2": 0.7269538301917312,
+            "chi2": 17.667105010117744,
+            "df": 2,
+            "p_value_chi2": 0.00014576093112206312,
+            "q": 2.8037217194650745,
+            "p_value_q": 0.09404587371989259
+          }
+        },
+        {
+          "outcome_id": "CMP-002.04",
+          "outcome_name": "Symptom of fever at 1 week (6 to 8 days)",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": false,
+          "summary_stats": {
+            "effect_estimate": 0.0,
+            "ci_lower": 0.0,
+            "ci_upper": 0.0,
+            "log_effect_estimate": null,
+            "log_ci_lower": null,
+            "log_ci_upper": null,
+            "z_value": 0.0,
+            "p_value_effect": 0.0,
+            "total_participants_intervention": 486,
+            "total_participants_control": 291
+          },
+          "heterogeneity": {
+            "i2": 0.0,
+            "tau2": null,
+            "chi2": 0.0,
+            "df": 0,
+            "p_value_chi2": 0.0,
+            "q": 0.0,
+            "p_value_q": 0.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 277,
+              "events_control": 0,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Denny-1950",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 157,
+              "events_control": 0,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 52,
+              "events_control": 0,
+              "total_control": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "comparison_id": "CMP-003",
+      "comparison_name": "Antibiotics versus control for the treatment of sore throat: symptom of headache",
+      "outcomes": [
+        {
+          "outcome_id": "CMP-003.01",
+          "outcome_name": "Symptom of headache on day 3",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.4387726872933742,
+            "ci_lower": 0.2726347745572424,
+            "ci_upper": 0.7061515590859719,
+            "log_effect_estimate": -0.3577604142034133,
+            "log_ci_lower": -0.5644187507202564,
+            "log_ci_upper": -0.15110207768657014,
+            "z_value": 3.3930280227319694,
+            "p_value_effect": 0.0006912456638296815,
+            "total_participants_intervention": 552,
+            "total_participants_control": 359
+          },
+          "heterogeneity": {
+            "i2": 77.02852572654265,
+            "tau2": 0.1266475539714208,
+            "chi2": 8.706450340067734,
+            "df": 2,
+            "p_value_chi2": 0.012865292699995368,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 40.130748199989426,
+              "effect_size": 0.5450361010830325,
+              "ci_start": 0.41242836978122943,
+              "ci_end": 0.720281079697233,
+              "events_intervention": 61,
+              "total_intervention": 277,
+              "events_control": 80,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 38.74594416771626,
+              "effect_size": 0.5732484076433121,
+              "ci_start": 0.41924097260407667,
+              "ci_end": 0.7838302034852151,
+              "events_intervention": 54,
+              "total_intervention": 157,
+              "events_control": 30,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-El_x002d_Daher-1991",
+              "weight": 21.123307632294313,
+              "effect_size": 0.17796610169491525,
+              "ci_start": 0.0828019995110384,
+              "ci_end": 0.38250203545220796,
+              "events_intervention": 7,
+              "total_intervention": 118,
+              "events_control": 37,
+              "total_control": 111
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-003.02",
+          "outcome_name": "Symptom of headache on day 3: blinded versus unblinded studies",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.43877268729337426,
+            "ci_lower": 0.2726347745572424,
+            "ci_upper": 0.7061515590859719,
+            "log_effect_estimate": -0.35776041420341326,
+            "log_ci_lower": -0.5644187507202564,
+            "log_ci_upper": -0.15110207768657014,
+            "z_value": 3.3930280227319694,
+            "p_value_effect": 0.0006912456638296815,
+            "total_participants_intervention": 552,
+            "total_participants_control": 359
+          },
+          "heterogeneity": {
+            "i2": 77.02852572654263,
+            "tau2": 0.12664755397142075,
+            "chi2": 8.70645034006773,
+            "df": 2,
+            "p_value_chi2": 0.012865292699995479,
+            "q": 0.5370433828035113,
+            "p_value_q": 0.463660716268829
+          }
+        }
+      ]
+    },
+    {
+      "comparison_id": "CMP-004",
+      "comparison_name": "Antibiotics versus placebo for the treatment of sore throat: incidence of complications",
+      "outcomes": [
+        {
+          "outcome_id": "CMP-004.01",
+          "outcome_name": "Incidence of acute rheumatic fever within 2 months. Rheumatic fever defined by clinical diagnosis",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.26852367541999833,
+            "ci_lower": 0.12006602298627175,
+            "ci_upper": 0.6005442877816402,
+            "log_effect_estimate": -0.57101741703717,
+            "log_ci_lower": -0.9205798745059393,
+            "log_ci_upper": -0.2214549595684009,
+            "z_value": 3.2016412175438824,
+            "p_value_effect": 0.001366470778324367,
+            "total_participants_intervention": 5656,
+            "total_participants_control": 4445
+          },
+          "heterogeneity": {
+            "i2": 50.80068105811242,
+            "tau2": 0.5084481786426333,
+            "chi2": 12.195290766294914,
+            "df": 6,
+            "p_value_chi2": 0.05775128059786405,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Leelarasamee-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 369,
+              "events_control": 0,
+              "total_control": 386
+            },
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 238,
+              "events_control": 0,
+              "total_control": 268
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 62,
+              "events_control": 0,
+              "total_control": 59
+            },
+            {
+              "study_id": "STD-Chapple-1956",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 186,
+              "events_control": 0,
+              "total_control": 97
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 87,
+              "events_control": 0,
+              "total_control": 94
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 0,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-Pichichero-1987",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 59,
+              "events_control": 0,
+              "total_control": 58
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 0,
+              "total_control": 164
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 454,
+              "events_control": 0,
+              "total_control": 216
+            },
+            {
+              "study_id": "STD-Chamovitz-1954",
+              "weight": 5.824571736435628,
+              "effect_size": 0.08527131782945736,
+              "ci_start": 0.004127569106590067,
+              "ci_end": 1.7616174209568431,
+              "events_intervention": 0,
+              "total_intervention": 257,
+              "events_control": 2,
+              "total_control": 109
+            },
+            {
+              "study_id": "STD-Denny-1950",
+              "weight": 15.838972372023042,
+              "effect_size": 0.11853162317558602,
+              "ci_start": 0.027475520940970815,
+              "ci_end": 0.5113550248173269,
+              "events_intervention": 2,
+              "total_intervention": 798,
+              "events_control": 17,
+              "total_control": 804
+            },
+            {
+              "study_id": "STD-Wannamaker-1951",
+              "weight": 22.945710146641176,
+              "effect_size": 0.14548641542506574,
+              "ci_start": 0.05723718960229482,
+              "ci_end": 0.3697997267214913,
+              "events_intervention": 5,
+              "total_intervention": 978,
+              "events_control": 35,
+              "total_control": 996
+            },
+            {
+              "study_id": "STD-Siegel-1961",
+              "weight": 5.805174894988521,
+              "effect_size": 0.200990099009901,
+              "ci_start": 0.00966949205969468,
+              "ci_end": 4.177780968288562,
+              "events_intervention": 0,
+              "total_intervention": 605,
+              "events_control": 2,
+              "total_control": 608
+            },
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 14.056603881001166,
+              "effect_size": 0.28592057761732853,
+              "ci_start": 0.05604003370364619,
+              "ci_end": 1.4587888568615863,
+              "events_intervention": 2,
+              "total_intervention": 277,
+              "events_control": 5,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 8.508712648539454,
+              "effect_size": 0.6369426751592356,
+              "ci_start": 0.05899288976729276,
+              "ci_end": 6.877031673466728,
+              "events_intervention": 2,
+              "total_intervention": 157,
+              "events_control": 1,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Catanzaro-1954",
+              "weight": 27.02025432037102,
+              "effect_size": 0.7333333333333333,
+              "ci_start": 0.37649051900396924,
+              "ci_end": 1.4283966013287788,
+              "events_intervention": 26,
+              "total_intervention": 650,
+              "events_control": 12,
+              "total_control": 220
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-004.02",
+          "outcome_name": "Incidence of acute rheumatic fever within 2 months. Penicillin versus placebo",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.2655001558468825,
+            "ci_lower": 0.1421362272881341,
+            "ci_upper": 0.49593502022410596,
+            "log_effect_estimate": -0.5759352196543719,
+            "log_ci_lower": -0.8472952161884404,
+            "log_ci_upper": -0.3045752231203034,
+            "z_value": 4.159833071817625,
+            "p_value_effect": 3.1848027340476946e-05,
+            "total_participants_intervention": 4332,
+            "total_participants_control": 3843
+          },
+          "heterogeneity": {
+            "i2": 21.15933884181465,
+            "tau2": 0.14592346333438866,
+            "chi2": 7.610286255669067,
+            "df": 6,
+            "p_value_chi2": 0.26806710805638245,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 238,
+              "events_control": 0,
+              "total_control": 268
+            },
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 12.159791631474613,
+              "effect_size": 0.4020304568527919,
+              "ci_start": 0.07893375123711573,
+              "ci_end": 2.0476473714233494,
+              "events_intervention": 2,
+              "total_intervention": 197,
+              "events_control": 5,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 62,
+              "events_control": 0,
+              "total_control": 59
+            },
+            {
+              "study_id": "STD-Catanzaro-1954",
+              "weight": 33.2493337070786,
+              "effect_size": 0.5238095238095238,
+              "ci_start": 0.23931463022963068,
+              "ci_end": 1.1465091664905167,
+              "events_intervention": 12,
+              "total_intervention": 420,
+              "events_control": 12,
+              "total_control": 220
+            },
+            {
+              "study_id": "STD-Chamovitz-1954",
+              "weight": 4.0123526750653005,
+              "effect_size": 0.08527131782945736,
+              "ci_start": 0.004127569106590067,
+              "ci_end": 1.7616174209568431,
+              "events_intervention": 0,
+              "total_intervention": 257,
+              "events_control": 2,
+              "total_control": 109
+            },
+            {
+              "study_id": "STD-Chapple-1956",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 99,
+              "events_control": 0,
+              "total_control": 97
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 0,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 87,
+              "events_control": 0,
+              "total_control": 94
+            },
+            {
+              "study_id": "STD-Denny-1950",
+              "weight": 14.47221643284232,
+              "effect_size": 0.11853162317558602,
+              "ci_start": 0.027475520940970815,
+              "ci_end": 0.5113550248173269,
+              "events_intervention": 2,
+              "total_intervention": 798,
+              "events_control": 17,
+              "total_control": 804
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 4.823373159122201,
+              "effect_size": 0.9433962264150944,
+              "ci_start": 0.06062725040349599,
+              "ci_end": 14.679808734372685,
+              "events_intervention": 1,
+              "total_intervention": 53,
+              "events_control": 1,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Pichichero-1987",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 59,
+              "events_control": 0,
+              "total_control": 58
+            },
+            {
+              "study_id": "STD-Siegel-1961",
+              "weight": 3.9970857283848025,
+              "effect_size": 0.200990099009901,
+              "ci_start": 0.00966949205969468,
+              "ci_end": 4.177780968288562,
+              "events_intervention": 0,
+              "total_intervention": 605,
+              "events_control": 2,
+              "total_control": 608
+            },
+            {
+              "study_id": "STD-Wannamaker-1951",
+              "weight": 27.285846666032167,
+              "effect_size": 0.14548641542506574,
+              "ci_start": 0.05723718960229482,
+              "ci_end": 0.3697997267214913,
+              "events_intervention": 5,
+              "total_intervention": 978,
+              "events_control": 35,
+              "total_control": 996
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 0,
+              "total_control": 164
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-004.03",
+          "outcome_name": "Incidence of acute rheumatic fever within 2 months: early (pre-1975) versus late studies (post-1975)",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.26852367541999833,
+            "ci_lower": 0.12006602298627181,
+            "ci_upper": 0.60054428778164,
+            "log_effect_estimate": -0.57101741703717,
+            "log_ci_lower": -0.9205798745059391,
+            "log_ci_upper": -0.22145495956840097,
+            "z_value": 3.2016412175438833,
+            "p_value_effect": 0.0013664707783243627,
+            "total_participants_intervention": 5656,
+            "total_participants_control": 4445
+          },
+          "heterogeneity": {
+            "i2": 50.80068105811242,
+            "tau2": 0.508448178642633,
+            "chi2": 12.195290766294914,
+            "df": 6,
+            "p_value_chi2": 0.05775128059786405,
+            "q": 0.0,
+            "p_value_q": 1.0
+          }
+        },
+        {
+          "outcome_id": "CMP-004.04",
+          "outcome_name": "Incidence of otitis media within 14 days. Otitis media defined by clinical diagnosis",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.29709189410936937,
+            "ci_lower": 0.15319188848398543,
+            "ci_upper": 0.576163623406991,
+            "log_effect_estimate": -0.5271091973770701,
+            "log_ci_lower": -0.8147642300030832,
+            "log_ci_upper": -0.23945416475105682,
+            "z_value": 3.5915069287942836,
+            "p_value_effect": 0.0003287714340006172,
+            "total_participants_intervention": 2325,
+            "total_participants_control": 1435
+          },
+          "heterogeneity": {
+            "i2": 0.0,
+            "tau2": 0.0,
+            "chi2": 5.409726622413537,
+            "df": 7,
+            "p_value_chi2": 0.6100937660121961,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 4.774194442807268,
+              "effect_size": 0.22510460251046024,
+              "ci_start": 0.010861283667605897,
+              "ci_end": 4.6653861202910365,
+              "events_intervention": 0,
+              "total_intervention": 238,
+              "events_control": 2,
+              "total_control": 268
+            },
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 42.571528148547394,
+              "effect_size": 0.27492363232435435,
+              "ci_start": 0.09961855468721384,
+              "ci_end": 0.7587241538259132,
+              "events_intervention": 5,
+              "total_intervention": 277,
+              "events_control": 13,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Chamovitz-1954",
+              "weight": 4.303555009564983,
+              "effect_size": 0.1421188630490956,
+              "ci_start": 0.00583484133972799,
+              "ci_end": 3.4615801970219753,
+              "events_intervention": 0,
+              "total_intervention": 257,
+              "events_control": 1,
+              "total_control": 109
+            },
+            {
+              "study_id": "STD-Chapple-1956",
+              "weight": 29.716148251971706,
+              "effect_size": 0.521505376344086,
+              "ci_start": 0.15472931835336737,
+              "ci_end": 1.7577008704625239,
+              "events_intervention": 5,
+              "total_intervention": 186,
+              "events_control": 5,
+              "total_control": 97
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 0,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 87,
+              "events_control": 0,
+              "total_control": 94
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 4.81046324907346,
+              "effect_size": 0.06455696202531645,
+              "ci_start": 0.0031507372549149214,
+              "ci_end": 1.3227384604784156,
+              "events_intervention": 0,
+              "total_intervention": 157,
+              "events_control": 2,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 4.2935870961927085,
+              "effect_size": 0.15897435897435896,
+              "ci_start": 0.006502730619903738,
+              "ci_end": 3.8864975790251113,
+              "events_intervention": 0,
+              "total_intervention": 454,
+              "events_control": 1,
+              "total_control": 216
+            },
+            {
+              "study_id": "STD-Pichichero-1987",
+              "weight": 4.338800604248612,
+              "effect_size": 2.8,
+              "ci_start": 0.11646055433989873,
+              "ci_end": 67.31893081255978,
+              "events_intervention": 1,
+              "total_intervention": 59,
+              "events_control": 0,
+              "total_control": 55
+            },
+            {
+              "study_id": "STD-Taylor-1977",
+              "weight": 5.191723197593884,
+              "effect_size": 0.0563973063973064,
+              "ci_start": 0.003081785980679751,
+              "ci_end": 1.0320821071974957,
+              "events_intervention": 0,
+              "total_intervention": 131,
+              "events_control": 4,
+              "total_control": 66
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 0,
+              "total_control": 164
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-004.05",
+          "outcome_name": "Incidence of otitis media within 14 days: early (pre-1975) versus late studies (post-1975)",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.2970918941093694,
+            "ci_lower": 0.15319188848398543,
+            "ci_upper": 0.5761636234069911,
+            "log_effect_estimate": -0.52710919737707,
+            "log_ci_lower": -0.8147642300030832,
+            "log_ci_upper": -0.23945416475105674,
+            "z_value": 3.5915069287942827,
+            "p_value_effect": 0.0003287714340006181,
+            "total_participants_intervention": 2325,
+            "total_participants_control": 1435
+          },
+          "heterogeneity": {
+            "i2": 0.0,
+            "tau2": 0.0,
+            "chi2": 5.409726622413538,
+            "df": 7,
+            "p_value_chi2": 0.610093766012196,
+            "q": 0.005580047247840837,
+            "p_value_q": 0.9404536354594929
+          }
+        },
+        {
+          "outcome_id": "CMP-004.06",
+          "outcome_name": "Incidence of sinusitis within 14 days. Sinusitis defined by clinical diagnosis",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.4821397994481986,
+            "ci_lower": 0.08418611889262348,
+            "ci_upper": 2.7612484013955125,
+            "log_effect_estimate": -0.3168270171017016,
+            "log_ci_lower": -1.074759511651366,
+            "log_ci_upper": 0.44110547744796264,
+            "z_value": 0.8192939969113586,
+            "p_value_effect": 0.4126187044756364,
+            "total_participants_intervention": 1545,
+            "total_participants_control": 842
+          },
+          "heterogeneity": {
+            "i2": 32.60295660927734,
+            "tau2": 1.0367216272954682,
+            "chi2": 4.451233836190737,
+            "df": 3,
+            "p_value_chi2": 0.2166818532544632,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Chamovitz-1954",
+              "weight": 33.63865192715988,
+              "effect_size": 0.14137483787289234,
+              "ci_start": 0.014870197627405322,
+              "ci_end": 1.3440873675243865,
+              "events_intervention": 1,
+              "total_intervention": 257,
+              "events_control": 3,
+              "total_control": 109
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 0,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 87,
+              "events_control": 0,
+              "total_control": 84
+            },
+            {
+              "study_id": "STD-Denny-1953",
+              "weight": 21.560027699473018,
+              "effect_size": 0.10759493670886076,
+              "ci_start": 0.004452069164851369,
+              "ci_end": 2.6002898824619307,
+              "events_intervention": 0,
+              "total_intervention": 157,
+              "events_control": 1,
+              "total_control": 50
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 23.35287192415817,
+              "effect_size": 4.150943396226415,
+              "ci_start": 0.20462005662868604,
+              "ci_end": 84.20646227237991,
+              "events_intervention": 2,
+              "total_intervention": 52,
+              "events_control": 0,
+              "total_control": 43
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 21.448448449208946,
+              "effect_size": 1.4307692307692308,
+              "ci_start": 0.05852457557913368,
+              "ci_end": 34.978478211226005,
+              "events_intervention": 1,
+              "total_intervention": 454,
+              "events_control": 0,
+              "total_control": 216
+            },
+            {
+              "study_id": "STD-Pichichero-1987",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 59,
+              "events_control": 0,
+              "total_control": 58
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 0,
+              "total_control": 164
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-004.07",
+          "outcome_name": "Incidence of quinsy within 2 months. Quinsy defined by clinical diagnosis",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.15182451414254183,
+            "ci_lower": 0.04882217857953299,
+            "ci_upper": 0.47213548770808195,
+            "log_effect_estimate": -0.8186580999999038,
+            "log_ci_lower": -1.3113828450753346,
+            "log_ci_upper": -0.32593335492447306,
+            "z_value": 3.2564639947323206,
+            "p_value_effect": 0.0011280923689052354,
+            "total_participants_intervention": 1438,
+            "total_participants_control": 995
+          },
+          "heterogeneity": {
+            "i2": 0.0,
+            "tau2": 0.0,
+            "chi2": 2.8451124956711085,
+            "df": 5,
+            "p_value_chi2": 0.7238502289867397,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 31.648798601892423,
+              "effect_size": 0.07507002801120448,
+              "ci_start": 0.009991359708721824,
+              "ci_end": 0.5640382560427271,
+              "events_intervention": 1,
+              "total_intervention": 238,
+              "events_control": 15,
+              "total_control": 268
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 14.0587601717058,
+              "effect_size": 0.19508196721311474,
+              "ci_start": 0.009464762533041488,
+              "ci_end": 4.0209116498044075,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 2,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-De-Meyere-1992",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 87,
+              "events_control": 0,
+              "total_control": 94
+            },
+            {
+              "study_id": "STD-Howe-1997",
+              "weight": 12.770609881220565,
+              "effect_size": 1.5,
+              "ci_start": 0.06270467130349894,
+              "ci_end": 35.882494130456436,
+              "events_intervention": 1,
+              "total_intervention": 69,
+              "events_control": 0,
+              "total_control": 34
+            },
+            {
+              "study_id": "STD-Landsman-1951",
+              "weight": 14.207759326223558,
+              "effect_size": 0.1660377358490566,
+              "ci_start": 0.00818480226514744,
+              "ci_end": 3.3682584908951956,
+              "events_intervention": 0,
+              "total_intervention": 52,
+              "events_control": 2,
+              "total_control": 43
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 12.597520417027999,
+              "effect_size": 0.15897435897435896,
+              "ci_start": 0.006502730619903738,
+              "ci_end": 3.8864975790251113,
+              "events_intervention": 0,
+              "total_intervention": 454,
+              "events_control": 1,
+              "total_control": 216
+            },
+            {
+              "study_id": "STD-Pichichero-1987",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 59,
+              "events_control": 0,
+              "total_control": 58
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 14.716551601929657,
+              "effect_size": 0.06565857540787903,
+              "ci_start": 0.003411052131453395,
+              "ci_end": 1.2638471528593342,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 3,
+              "total_control": 164
+            }
+          ]
+        },
+        {
+          "outcome_id": "CMP-004.08",
+          "outcome_name": "Incidence of acute glomerulonephritis within 1 month. Acute glomerulonephritis defined by clinical diagnosis",
+          "measure_type": "RR",
+          "analysis_method": "MH",
+          "model_type": "Random",
+          "is_estimable": true,
+          "summary_stats": {
+            "effect_estimate": 0.21748469220221764,
+            "ci_lower": 0.02270113267570175,
+            "ci_upper": 2.083578472404624,
+            "log_effect_estimate": -0.6625713057257419,
+            "log_ci_lower": -1.6439524730916888,
+            "log_ci_upper": 0.3188098616402051,
+            "z_value": 1.3232533286711126,
+            "p_value_effect": 0.18575114672901402,
+            "total_participants_intervention": 2927,
+            "total_participants_control": 2220
+          },
+          "heterogeneity": {
+            "i2": 0.0,
+            "tau2": 0.0,
+            "chi2": 0.13695680294609308,
+            "df": 1,
+            "p_value_chi2": 0.7113254069249084,
+            "q": 0.0,
+            "p_value_q": 1.0
+          },
+          "studies_data": [
+            {
+              "study_id": "STD-Bennike-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 238,
+              "events_control": 0,
+              "total_control": 268
+            },
+            {
+              "study_id": "STD-Brink-1951",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 277,
+              "events_control": 0,
+              "total_control": 198
+            },
+            {
+              "study_id": "STD-Brumfitt-1957",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 62,
+              "events_control": 0,
+              "total_control": 59
+            },
+            {
+              "study_id": "STD-Chamovitz-1954",
+              "weight": 50.09090114569301,
+              "effect_size": 0.1421188630490956,
+              "ci_start": 0.00583484133972799,
+              "ci_end": 3.4615801970219753,
+              "events_intervention": 0,
+              "total_intervention": 257,
+              "events_control": 1,
+              "total_control": 109
+            },
+            {
+              "study_id": "STD-Chapple-1956",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 186,
+              "events_control": 0,
+              "total_control": 97
+            },
+            {
+              "study_id": "STD-Dagnelie-1996",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 121,
+              "events_control": 0,
+              "total_control": 118
+            },
+            {
+              "study_id": "STD-Leelarasamee-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 369,
+              "events_control": 0,
+              "total_control": 386
+            },
+            {
+              "study_id": "STD-Little-1997",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 454,
+              "events_control": 0,
+              "total_control": 216
+            },
+            {
+              "study_id": "STD-Siegel-1961",
+              "weight": 49.909098854307004,
+              "effect_size": 0.3333333333333333,
+              "ci_start": 0.013606075125179848,
+              "ci_end": 8.166286757118161,
+              "events_intervention": 0,
+              "total_intervention": 605,
+              "events_control": 1,
+              "total_control": 605
+            },
+            {
+              "study_id": "STD-Zwart-2000",
+              "weight": 0.0,
+              "effect_size": 0.0,
+              "ci_start": 0.0,
+              "ci_end": 0.0,
+              "events_intervention": 0,
+              "total_intervention": 358,
+              "events_control": 0,
+              "total_control": 164
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary_of_findings": [],
+  "rob_domain_definitions": [
+    {
+      "domain_id": "QIT-01",
+      "domain_name": "Random sequence generation (selection bias)",
+      "description": "Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence"
+    },
+    {
+      "domain_id": "QIT-02",
+      "domain_name": "Allocation concealment (selection bias)",
+      "description": "Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment"
+    },
+    {
+      "domain_id": "QIT-03",
+      "domain_name": "Blinding (performance bias and detection bias)",
+      "description": "Performance bias or detection bias due to knowledge of the allocated interventions after assignment"
+    },
+    {
+      "domain_id": "QIT-04",
+      "domain_name": "Incomplete outcome data (attrition bias)",
+      "description": "Attrition bias due to amount, nature or handling of incomplete outcome data"
+    },
+    {
+      "domain_id": "QIT-05",
+      "domain_name": "Selective reporting (reporting bias)",
+      "description": "Reporting bias due to selective outcome reporting"
+    },
+    {
+      "domain_id": "QIT-06",
+      "domain_name": "Other bias",
+      "description": "Bias due to problems not covered elsewhere in the table"
+    },
+    {
+      "domain_id": "QIT-07",
+      "domain_name": "Blinding of participants and personnel (performance bias)",
+      "description": "Performance bias due to knowledge of the allocated interventions by participants and personnel during the study"
+    },
+    {
+      "domain_id": "QIT-08",
+      "domain_name": "Blinding of outcome assessment (detection bias)",
+      "description": "Detection bias due to knowledge of the allocated interventions by outcome assessors"
+    }
+  ],
+  "parsing_metadata": {
+    "parser_version": "0.1.0",
+    "parse_timestamp": "2025-04-11T13:55:39.822775",
+    "source_file": "antibiotics-for-sore-throat.rm5",
+    "source_file_encoding": "ISO-8859-1",
+    "source_revman_version": "5.5.2.11",
+    "warnings": []
+  }
+}

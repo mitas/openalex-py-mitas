@@ -1,0 +1,20 @@
+> """Helper functions for dictionary operations."""
+! from typing import Any, Dict, Optional
+  
+  
+! def add_optional_field(
+!     result_dict: Dict[str, Any], field_name: str, value: Any
+! ) -> None:
+!     """
+!     Add a field to a dictionary only if the value is not None.
+  
+!     Args:
+!         result_dict: The dictionary to add the field to
+!         field_name: The name of the field
+!         value: The value to add
+  
+!     Returns:
+!         None
+!     """
+!     if value is not None:
+!         result_dict[field_name] = value

@@ -1,0 +1,96 @@
+[project]
+name = "openalex-py"
+version = "0.1.0"
+description = "OpenAlex Publication Matching System"
+readme = "README.md"
+authors = [
+    { name = "Michał Goza", email = "michal.goza@evidenceprime.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "pyalex>=0.18",
+    "rich>=13.7.0",
+    "pyyaml>=6.0.1",
+    "aiohttp>=3.9.1",
+    "jellyfish>=1.0.3",
+    "orjson>=3.10.16",
+    "pydantic>=2.11.3",
+    "loguru>=0.7.3",
+    "cachetools>=5.5.2",
+    "rapidfuzz>=3.13.0",
+    "python-dotenv>=1.1.0",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.26.0",
+    "pytest-cov>=6.1.1",
+    "vulture>=2.14",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.3",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "pytest-asyncio>=0.23.2",
+    "black>=23.11.0",
+    "isort>=5.12.0",
+    "mypy>=1.7.1",
+    "ruff>=0.1.6",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+asyncio_mode = "auto"
+pythonpath = ["src"]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::pytest.PytestDeprecationWarning"
+]
+asyncio_default_fixture_loop_scope = "function"
+
+[tool.coverage.run]
+source = ["src"]
+omit = ["tests/*", "**/__init__.py"]
+
+[tool.black]
+line-length = 88
+target-version = ["py313"]
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+select = ["E", "F", "B", "I", "N", "C"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.13"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "isort>=6.0.1",
+    "mypy>=1.15.0",
+    "pylint>=3.3.6",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.26.0",
+    "pytest-cov>=6.1.1",
+    "pytest-mock>=3.14.0",
+    "ruff>=0.11.5",
+    "vulture>=2.14",
+]
+
+[tool.pylint]
+disable = ["R0903"]
